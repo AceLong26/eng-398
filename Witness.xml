@@ -1,13 +1,30 @@
-<TEI>
-    <fileDesc>Louis XVI Decree to the Assembleé Legéislative</fileDesc>
-    <sourceDesc>Louis XVI Decree to the Assembleé Legéislative, 1791</sourceDesc>
+<?xml version="1.0" encoding="UTF-8"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+  <fileDesc>Louis XVI Decree to the Assembleé Legéislative
+  <titleStmt>
+  <title>Electronic Edition of Louis XVI Decree to the Assembleé Legéislative, 1791</title>
+  <auther> Louis XVI</auther>
+  <editer> Ace Long</editer>
+  </titleStmt>
+  <publicationStmt>
+    <publisher>St. Franic Xavier University</publisher>
+    <date When="2026">2026-11-10</date>
+    <availability status="free">Open Access</availability>
+  </publicationStmt>
+    <sourceDesc>Louis XVI Decree to the Assembleé Legéislative, 1791
+    <msDesc>
     <msIdentifier>
         <repository>National Archives of France</repository>
         <idno>Zweig MS 169</idno>
   </msIdentifier>
     <phyDesc>
-    <objectType>Legislative Document</objectType>
-    <support>Paper</support>
+    <objectDesc><supportDesc material="paper">paper</supportDesc></objectDesc>
+  <handDecs><handNote xml:id="h1" Latin="true">Latin</handNote></handDecs>
     <extent>1 document</extent>
-  </phyDesc>
+ </phyDesc>
+ </msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
 </TEI>

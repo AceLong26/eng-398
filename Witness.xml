@@ -1,30 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-  <fileDesc>Louis XVI Decree to the Assembleé Legéislative
-  <titleStmt>
-  <title>Electronic Edition of Louis XVI Decree to the Assembleé Legéislative, 1791</title>
-  <auther> Louis XVI</auther>
-  <editer> Ace Long</editer>
-  </titleStmt>
-  <publicationStmt>
-    <publisher>St. Franic Xavier University</publisher>
-    <date When="2026">2026-11-10</date>
-    <availability status="free">Open Access</availability>
-  </publicationStmt>
-    <sourceDesc>Louis XVI Decree to the Assembleé Legéislative, 1791
-    <msDesc>
-    <msIdentifier>
-        <repository>National Archives of France</repository>
-        <idno>Zweig MS 169</idno>
-  </msIdentifier>
-    <phyDesc>
-    <objectDesc><supportDesc material="paper">paper</supportDesc></objectDesc>
-  <handDecs><handNote xml:id="h1" Latin="true">Latin</handNote></handDecs>
-    <extent>1 document</extent>
- </phyDesc>
- </msDesc>
+<?xlm-modle href="https://raw.githubusercontent.com?msdesc/consolidated-tei-schema/master/msdesc.rng"
+            type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+ <TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  
+ <fileDesc>Louis XVI Decree to the Assembleé Legéislative, 1791
+     
+          <titleStmt>
+                <title>Electronic Edition of Louis XVI Decree to the Assembleé Legéislative, 1791</title>
+                <author> Louis XVI, King of France (1754–1793)</author>
+                <editor> Ace Long</editor>
+            </titleStmt>
+      
+                    <publicationStmt>
+                      <publisher>St. Franic Xavier University</publisher>
+                      <pubPlace><!-- Antigonish, Nova Scotia--></pubPlace>
+                      <date When="2026">2026-11-10</date>
+                      <availability status="free">Open Access</availability>
+                          <licence target="https://creativecommons.org/licenses/by/4.0/">
+                              Distributed under a Creative Commons Attribution 4.0 International license.
+                          </licence>
+                    </publicationStmt>
+ 
+<sourceDesc>Louis XVI Decree to the Assembleé Legéislative, 1791
+     <msDesc>
+      <msIdentifier>
+            <repository ref="https://viaf.org/en/viaf/131469365">Archives nationales (France)</repository>
+            <idno>Zweig MS 169</idno>
+      </msIdentifier>
+
+        <phyDesc>
+            <objectDesc><supportDesc material="paper">paper</supportDesc></objectDesc>
+              <handDecs><handNote xml:id="h1" Latin="true">Latin</handNote></handDecs>
+                    <extent>1 document</extent>
+          </phyDesc>
+ 
+                <history>
+                    <origin>
+                      <origDate when="1791">1791</origDate>
+                      <origPlace>France</origPlace>
+                    </origin>
+                      <provenance>Part of the Stefan Zweig Collection of manuscripts.</provenance>
+                </history>
+ 
+</msDesc>
 </sourceDesc>
 </fileDesc>
 </teiHeader>
+   
+              <fasimile>
+                  <surface xml:id="Front page" ulx="0" uly="0" lrx="1590" lry="2000">
+                    <graphic url="default.jpg"></graphic>
+                    <zone xml:id="Front page" ulx="0" uly="0" lrx="1590" lry="2000"/>
+                  </surface>
+              </fasimile>
+<text>
+    <body>
+      <pb facs="#Front page"/>
+    </body>
+</text>   
 </TEI>

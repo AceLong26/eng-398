@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Louis XVI: Decree to the Assemblée Législative (1791): A TEI Digital Edition</title>
+        <author>Louis XVI, King of France (1754–1793)</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name><!-- Insert Encoder Name --></name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <publisher><!-- Name of publishing institution/project --></publisher>
+        <pubPlace><!-- Location of publication --></pubPlace>
+        <date when="2026"/>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Distributed under a Creative Commons Attribution 4.0 International license.
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+      
+        <!-- Description of the physical source manuscript -->
+        <msDesc>
+          <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository>British Library</repository>
+            <collection>Stefan Zweig Collection</collection>
+            <idno type="shelfmark">Zweig MS 169</idno>
+            <altIdentifier type="ark">
+              <idno>ark:/81055/vdc_100139607660.0x000001</idno>
+            </altIdentifier>
+          </msIdentifier>
+
+          <msContents>
+            <summary>Decree from King Louis XVI addressed to the Assemblée Législative.</summary>
+            <textLang mainLang="fre">French</textLang>
+            <msItem class="official-document">
+              <author key="Louis_XVI">Louis XVI</author>
+              <title>Decree to the Assemblée Législative</title>
+              <date when="1791">1791</date>
+            </msItem>
+          </msContents>
+
+          <physDesc>
+            <objectDesc form="manuscript">
+              <supportDesc material="paper">
+                <extent>2 folios (ff. 2)
+                  <dimensions type="leaf" unit="mm">
+                    <height>230</height>
+                    <width>187</width>
+                  </dimensions>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote script="Latin">Handwritten script in French (Latin alphabet).</scriptNote>
+            </scriptDesc>
+          </physDesc>
+
+          <history>
+            <origin>
+              <origDate when="1791">1791</origDate>
+              <origPlace>France</origPlace>
+            </origin>
+            <provenance>Part of the Stefan Zweig Collection of manuscripts.</provenance>
+          </history>
+        </msDesc>
+
+        <!-- Link to the IIIF Manifest digital surrogate -->
+        <bibl type="digitalSurrogate">
+          <title>IIIF Manifest for British Library Zweig MS 169</title>
+          <ref target="https://bl.digirati.io/iiif/ark:/81055/vdc_100139607660.0x000001"/>
+          <relatedItem type="viewer">
+            <ref target="https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100139607660.0x000001"/>
+          </relatedItem>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <langUsage>
+        <language ident="fre">French</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="http://vocab.getty.edu/aat/">
+          <term>decrees</term>
+          <term>manuscripts</term>
+          <term>official documents</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+
+    <revisionDesc>
+      <change when="2026-09-15" who="#encoder">Created initial TEI Header template from IIIF metadata.</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <p><!-- Transcribed text goes here --></p>
+    </body>
+  </text>
+</TEI>

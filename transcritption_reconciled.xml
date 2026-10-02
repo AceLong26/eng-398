@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng"
+            type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+ <TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+    <fileDesc>
+          <titleStmt>
+        <title>Electronic Edition of Louis XVI's Letter to the Assemblée Nationale (31 December 1791)</title>
+        <author key="Louis_XVI">Louis XVI, King of France (1754–1793)</author>
+        <editor>Ace Long</editor>
+            </titleStmt>
+      
+                    <publicationStmt>
+        <publisher>St. Francis Xavier University</publisher>
+        <pubPlace>Antigonish, Nova Scotia</pubPlace>
+        <date when="2026-11-10">2026-11-10</date>
+        <availability status="free">
+                          <licence target="https://creativecommons.org/licenses/by/4.0/">
+                              Distributed under a Creative Commons Attribution 4.0 International license.
+                          </licence>
+                        </availability>
+                    </publicationStmt>
+ 
+      <sourceDesc>
+     <msDesc>
+      <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository ref="https://viaf.org/en/viaf/121010765">British Library</repository>
+            <collection>Stefan Zweig Collection</collection>
+            <idno type="shelfmark">Zweig MS 169</idno>
+            <altIdentifier type="ark">
+              <idno>ark:/81055/vdc_100139607660.0x000001</idno>
+            </altIdentifier>
+      </msIdentifier>
+
+          <msContents>
+            <summary>Decree/communication from King Louis XVI addressed to the Assemblée Nationale regarding diplomatic relations with the Emperor and the Elector of Trier.</summary>
+            <textLang mainLang="fre">French</textLang>
+            <msItem class="official-document">
+              <author key="Louis_XVI">Louis XVI</author>
+              <title>Letter to the Assemblée Nationale</title>
+              <note type="date">
+                <date when="1791-12-31">31 December 1791</date></note>
+            </msItem>
+          </msContents>
+
+          <physDesc>
+            <objectDesc form="manuscript">
+              <supportDesc material="paper">
+                <support>
+                  <p>Handmade paper</p>
+                </support>
+                <extent>
+                  <measure unit="leaf" quantity="2">2 folios (ff. 2)</measure>
+                  <dimensions type="leaf" unit="mm">
+                    <height>230</height>
+                    <width>187</width>
+                  </dimensions>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote xml:id="h1" script="Latin">Handwritten script in French (Latin alphabet).</scriptNote>
+            </scriptDesc>
+          </physDesc>
+ 
+                <history>
+                    <origin>
+              <origDate when="1791-12-31">31 December 1791</origDate>
+                      <origPlace>France</origPlace>
+                    </origin>
+                      <provenance>Part of the Stefan Zweig Collection of manuscripts.</provenance>
+                </history>
+</msDesc>
+
+        <bibl type="digitalSurrogate">
+          <title>British Library Zweig MS 169</title>
+          <ref target="https://searcharchives.bl.uk/catalog/040-001945929"/>
+          <ref target="https://bl.digirati.io/iiif/ark:/81055/vdc_100139607660.0x000001"/>
+        </bibl>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+   
+              <facsimile>
+    <surface xml:id="Front_page" ulx="0" uly="0" lrx="1590" lry="2000">
+      <graphic url="default.jpg"/>
+      <zone type="Heading" ulx="140" uly="40" lrx="600" lry="100"/>
+      <zone type="Date" ulx="980" uly="40" lrx="1250" lry="100"/>
+      <zone type="Body" ulx="140" uly="110" lrx="1540" lry="1920"/>
+                      </surface>
+              </facsimile>
+
+<text>
+    <body>
+      <pb n="1" facs="#Front_page"/>
+      <p><lb n="1"/>a l'Assemblée Nationale.</p>
+        <p><lb n="2"/><date when="1791-12-31">31 décembre 1791</date></p>
+      <p>
+      <lb n="3"/>J'ai charge le Ministre des affaires etrangeres, MM, de vous communiquer
+      <lb n="4"/>l'office que l'Empereur a fait remettre a l'ambassadeur de France a
+      <lb n="5"/>Vienne. Cet office je dois le dire, m'a cause le plus grand etonnement.
+      <lb n="6"/>j'avari drais a <unclear reason="illegible"/> un les <unclear reason="illegible"/>, de <unclear reason="illegible"/> a <unclear reason="illegible"/><unclear reason="illegible"/>
+      <lb n="7"/>dair de annencer avec la France la France intelligence a las le
+      <lb n="8"/>vayyer qui daivent voyuer enter deux allie, je ne juge pas
+      <lb n="9"/>auire encore que en <unclear reason="illegible"/> jaieux changees, j'aivue a avec
+      <lb n="10"/><unclear reason="illegible"/> qu'al a ete'<unclear reason="illegible"/> lun la verie du faire, qu'ul a
+      <lb n="11"/><unclear reason="illegible"/> que l'<unclear reason="illegible"/> de Frence averie <unclear reason="illegible"/> <unclear reason="illegible"/> <unclear reason="illegible"/> de la
+      <lb n="12"/>justice et de les voiriage, et que <unclear reason="illegible"/> a <unclear reason="illegible"/> averie a
+      <lb n="13"/>venridre que les etats <unclear reason="illegible"/> <unclear reason="illegible"/> a des <unclear reason="illegible"/> au a des
+      <lb n="14"/><unclear reason="illegible"/> <unclear reason="illegible"/>
+      <lb n="15"/>Pay tu voyane que je faits a l'empereur, je lui voyette que je n'ai
+      <lb n="16"/>vieu demender que de <unclear reason="illegible"/> a l'empereur de France,, viex deu
+      <lb n="17"/>l'empereur n'ai lui nuance <unclear reason="illegible"/> <unclear reason="illegible"/>. je lui voyette le
+      <lb n="18"/>join que le Neutre Francaise a <unclear reason="illegible"/> de <unclear reason="illegible"/> lui le change
+      <lb n="19"/>les <unclear reason="illegible and could be two words"/> de Brabaucon qui peurineux <unclear reason="illegible"/><unclear reason="illegible"/><unclear reason="illegible"/>
+      <lb n="20"/>dans le voinage des <unclear reason="illegible"/>, Bau <unclear reason="illegible"/>. Enfair je lui vendere
+      <lb n="21"/>le vaiu de la France peux tu <unclear reason="illegible"/> de la <unclear reason="illegible"/>. <unclear reason="illegible"/> eu
+      <lb n="22"/>mavue temps, je ui declare que <unclear reason="illegible"/> a l'epoque que j'ai fiue
+      <lb n="23"/>l'empereur de France n'a pas effectivement et reellement dissipe
+      <lb n="24"/>les veu<unclear reason="illegible"/> qui entent daun en Etates, rien ne <unclear reason="illegible"/>
+      </p>
+      </body>
+  </text>   
+</TEI>

@@ -52,12 +52,31 @@
               <fasimile>
                   <surface xml:id="Front page" ulx="0" uly="0" lrx="1590" lry="2000">
                     <graphic url="default.jpg"></graphic>
-                    <zone xml:id="Front page" ulx="0" uly="0" lrx="1590" lry="2000"/>
-                  </surface>
+                   
+                     <zone type="Heading" ulx="506" uly="78" lrx="1590" lry="2000"/>
+                       
+
+                     <zone type="Date" ulx="300" uly="80" lrx="1590" lry="2000"/>
+                   
+                    
+                     <zone type="Body" ulx="1360" uly="1634" lrx="1590" lry="2000"/>
+                        
+                 
+                      </surface>
               </fasimile>
 <text>
     <body>
-      <pb facs="#Front page"/>
-    </body>
-</text>   
+      <pb n="1" facs="#Front page"/>
+      <lb n="1"/>a l'assembleé législative
+      <lb n="2"/>31 juin 1791
+      <lb n="3"/>J'ai change le minister des affeires etrangeres, MN , de mes <unclear reason="illegible"/>
+      <lb n="4"/>l'office que <unclear reason="illegible"/> a fair venuttre a l'ambassadeur de France a
+      <lb n="5"/>Vinne. Du office je dire le dire, m'a aune le plan grand <unclear reason="illegible"/>
+      <lb n="6"/>j'avari drais a <unclear reason="illegible"/> un les <unclear reason="illegible"/>, de <unclear reason="illegible"/> a <unclear reason="illegible"/><unclear reason="illegible"/>
+      <lb n="7"/>dair de annencer avec la France la France intelligence a las le
+      <lb n="8"/>vayyer qui daivent voyuer enter deux allie, je ne juge pas
+      <lb n="9"/>auire encore que en <unclear reason="illegible"/> jaieux changees, j'aivue a avec
+      <lb n="10"/><unclear reason="illegible"/> qu'al a ete'<unclear reason="illegible"/> lun la verie du faire, qu'ul a
+      </body>
+  </text>   
 </TEI>

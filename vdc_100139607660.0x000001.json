@@ -1,0 +1,624 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bl.digirati.io/iiif/ark:/81055/vdc_100139607660.0x000001",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Zweig MS 169"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000001/full/159,200/0/default.jpg",
+            "type": "Image",
+            "width": 159,
+            "height": 200,
+            "format": "image/jpeg",
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000001",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level0.json",
+                    "sizes": [
+                        {
+                            "width": 814,
+                            "height": 1024
+                        },
+                        {
+                            "width": 318,
+                            "height": 400
+                        },
+                        {
+                            "width": 159,
+                            "height": 200
+                        },
+                        {
+                            "width": 80,
+                            "height": 100
+                        }
+                    ]
+                },
+                {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://bl.digirati.io/thumbs/v3/ark:/81055/vdc_100160189553.0x000001",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "sizes": [
+                        {
+                            "width": 814,
+                            "height": 1024
+                        },
+                        {
+                            "width": 318,
+                            "height": 400
+                        },
+                        {
+                            "width": 159,
+                            "height": 200
+                        },
+                        {
+                            "width": 80,
+                            "height": 100
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Zweig MS 169"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "en": [
+                    "[no title]"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Digitisation funded by"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Restricted Fund RAC (European Cooperation)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Digitised by"
+                ]
+            },
+            "value": {
+                "en": [
+                    "The British Library"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "RAQ_ID"
+                ]
+            },
+            "value": {
+                "en": [
+                    "http://bl.uk/rights/raqs/1.2/20170119"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Usage terms"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Public Domain"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000001/canvas/c/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "f.1r"
+                ]
+            },
+            "width": 5404,
+            "height": 6795,
+            "thumbnail": [
+                {
+                    "id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000001/full/159,200/0/default.jpg",
+                    "type": "Image",
+                    "width": 159,
+                    "height": 200,
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000001",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level0.json",
+                            "sizes": [
+                                {
+                                    "width": 814,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 318,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 159,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 80,
+                                    "height": 100
+                                }
+                            ]
+                        },
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://bl.digirati.io/thumbs/v3/ark:/81055/vdc_100160189553.0x000001",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 814,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 318,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 159,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 80,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "metadata": [],
+            "items": [
+                {
+                    "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000001/canvas/c/1/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000001/canvas/c/1/page/image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000001/full/814,1024/0/default.jpg",
+                                "type": "Image",
+                                "width": 814,
+                                "height": 1024,
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "@id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000001",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "width": 5404,
+                                        "height": 6795
+                                    },
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://bl.digirati.io/images/v3/ark:/81055/vdc_100160189553.0x000001",
+                                        "type": "ImageService3",
+                                        "profile": "level2",
+                                        "width": 5404,
+                                        "height": 6795
+                                    }
+                                ]
+                            },
+                            "target": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000001/canvas/c/1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000002/canvas/c/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "f.1v"
+                ]
+            },
+            "width": 5515,
+            "height": 6795,
+            "thumbnail": [
+                {
+                    "id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000002/full/162,200/0/default.jpg",
+                    "type": "Image",
+                    "width": 162,
+                    "height": 200,
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000002",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level0.json",
+                            "sizes": [
+                                {
+                                    "width": 831,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 325,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 162,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 81,
+                                    "height": 100
+                                }
+                            ]
+                        },
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://bl.digirati.io/thumbs/v3/ark:/81055/vdc_100160189553.0x000002",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 831,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 325,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 162,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 81,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "metadata": [],
+            "items": [
+                {
+                    "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000002/canvas/c/2/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000002/canvas/c/2/page/image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000002/full/831,1024/0/default.jpg",
+                                "type": "Image",
+                                "width": 831,
+                                "height": 1024,
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "@id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000002",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "width": 5515,
+                                        "height": 6795
+                                    },
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://bl.digirati.io/images/v3/ark:/81055/vdc_100160189553.0x000002",
+                                        "type": "ImageService3",
+                                        "profile": "level2",
+                                        "width": 5515,
+                                        "height": 6795
+                                    }
+                                ]
+                            },
+                            "target": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000002/canvas/c/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000003/canvas/c/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "f.2r"
+                ]
+            },
+            "width": 5404,
+            "height": 6795,
+            "thumbnail": [
+                {
+                    "id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000003/full/159,200/0/default.jpg",
+                    "type": "Image",
+                    "width": 159,
+                    "height": 200,
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000003",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level0.json",
+                            "sizes": [
+                                {
+                                    "width": 814,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 318,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 159,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 80,
+                                    "height": 100
+                                }
+                            ]
+                        },
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://bl.digirati.io/thumbs/v3/ark:/81055/vdc_100160189553.0x000003",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 814,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 318,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 159,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 80,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "metadata": [],
+            "items": [
+                {
+                    "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000003/canvas/c/3/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000003/canvas/c/3/page/image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000003/full/814,1024/0/default.jpg",
+                                "type": "Image",
+                                "width": 814,
+                                "height": 1024,
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "@id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000003",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "width": 5404,
+                                        "height": 6795
+                                    },
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://bl.digirati.io/images/v3/ark:/81055/vdc_100160189553.0x000003",
+                                        "type": "ImageService3",
+                                        "profile": "level2",
+                                        "width": 5404,
+                                        "height": 6795
+                                    }
+                                ]
+                            },
+                            "target": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000003/canvas/c/3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000004/canvas/c/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "f.2v"
+                ]
+            },
+            "width": 5545,
+            "height": 6795,
+            "thumbnail": [
+                {
+                    "id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000004/full/163,200/0/default.jpg",
+                    "type": "Image",
+                    "width": 163,
+                    "height": 200,
+                    "format": "image/jpeg",
+                    "service": [
+                        {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://bl.digirati.io/thumbs/ark:/81055/vdc_100160189553.0x000004",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level0.json",
+                            "sizes": [
+                                {
+                                    "width": 836,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 326,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 163,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 82,
+                                    "height": 100
+                                }
+                            ]
+                        },
+                        {
+                            "@context": "http://iiif.io/api/image/3/context.json",
+                            "id": "https://bl.digirati.io/thumbs/v3/ark:/81055/vdc_100160189553.0x000004",
+                            "type": "ImageService3",
+                            "profile": "level0",
+                            "sizes": [
+                                {
+                                    "width": 836,
+                                    "height": 1024
+                                },
+                                {
+                                    "width": 326,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 163,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 82,
+                                    "height": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "metadata": [],
+            "items": [
+                {
+                    "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000004/canvas/c/4/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000004/canvas/c/4/page/image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000004/full/836,1024/0/default.jpg",
+                                "type": "Image",
+                                "width": 836,
+                                "height": 1024,
+                                "format": "image/jpeg",
+                                "service": [
+                                    {
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "@id": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000004",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "width": 5545,
+                                        "height": 6795
+                                    },
+                                    {
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "id": "https://bl.digirati.io/images/v3/ark:/81055/vdc_100160189553.0x000004",
+                                        "type": "ImageService3",
+                                        "profile": "level2",
+                                        "width": 5545,
+                                        "height": 6795
+                                    }
+                                ]
+                            },
+                            "target": "https://bl.digirati.io/images/ark:/81055/vdc_100160189553.0x000004/canvas/c/4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "summary": {
+        "en": [
+            "[no title]"
+        ]
+    },
+    "provider": [
+        {
+            "id": "https://www.bl.uk/about",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "British Library"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://www.bl.uk/",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "British Library Homepage"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://www.bl.uk/logo",
+                    "type": "Image",
+                    "format": "image/png",
+                    "height": 100,
+                    "width": 120
+                }
+            ],
+            "seeAlso": []
+        }
+    ]
+}

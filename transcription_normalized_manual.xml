@@ -83,13 +83,14 @@
         </bibl>
 </sourceDesc>
 </fileDesc>
- <encodingDesc>
-  <editorialDecl>
-    <normalization method="markup">
-        <p> </p>
-    </normalization>
-  </editorialDecl>
-</encodingDesc> 
+ 
+<encodingDesc>
+    <projectDesc>
+      <p>Transcription prepared from a digital facsimile and normalized for readability while preserving original capitalization, punctuation, and orthographic choices where possible.</p>
+      <p>Normalize accents and abbreviations. Leave capitalization and punctuation as in the original, correcting spacing around punctuation, and consult the French dictionary and authorial usage as needed.</p>
+    </projectDesc>
+  </encodingDesc>
+  
 </teiHeader>
    
               <facsimile>
@@ -105,34 +106,32 @@
     <body>
       <pb n="1" facs="#Front_page"/>
       <p><lb n="1"/>a l'Assemblée Nationale.</p>
-        <p><lb n="2"/><date when="1791-12-31">31 décembre 1791</date></p>
+        <p><lb n="2"/><date when="1791-12-31">31 déc <choice><abbr>décember</abbr></choice> 1791</date></p>
       <p>
-      <lb n="3"/>J'ai charge le Ministre des affaires etrangeres, MM, de vous communiquer
+      <lb n="3"/>J'ai charge <choice><orig>chargré</orig></choice>le Ministre des affaires etrangeres, MM <choice><abbr>Messieurs</abbr></choice>, de vous communiquer
       <lb n="4"/>l'office que l'Empereur a fait remettre a l'ambassadeur de France a
-      <lb n="5"/>Vienne. Cet office je dois le dire, m'a cause le plus grand etonnement.
+      <lb n="5"/>Vienne. Cet office je dois le dire, m'a cause <choice><orig>causé</orig></choice>le plus grand etonnement <choice><orig>étonnement</orig></choice>.
       <lb n="6"/>J'avois droit a compter sur les sentimens de l'Empereur et sur son
       <lb n="7"/>desir de conserver avec la France la bonne intelligence et tous les
-      <lb n="8"/>rapports, qui doivent regner entre deux allies. je ne peux pas
+      <lb n="8"/>rapports, qui doivent regner entre deux allies <choice><orig>alliés</orig></choice>. je ne peux pas
       <lb n="9"/>croire encore que ses dispositions soient changées, j'aime a me
-      <lb n="10"/>persuader qu'il a ete trompe sur la verite des faits, qu'il a
-      <lb n="11"/>au que l'Electeur de Treves avoit satisfait aux devoirs de la
+      <lb n="10"/>persuader qu'il a ete <choice><orig>été</orig></choice> trompe <choice><orig>trompé</orig></choice> sur la verite <choice><orig>verité</orig></choice> des faits, qu'il a
+      <lb n="11"/>au que l'Electeur de Treves <choice><orig>Trèves</orig></choice> cavoit satisfait aux devoirs de la
       <lb n="12"/>justice et du bon voisinage, et que neantmoins ce prince avoit a
       <lb n="13"/> que ses états ne fussent exposés a des violences ou a descraindre
       <lb n="14"/>incursions particulieres.
-     
       </p>
     <p>
       <lb n="15"/>Dans la reponse que je fais a l'Empereur, je lui repete que je n'ai
-      <lb n="16"/>rien demander que de juste a l'Electeur de Treves, rien dont
-      <lb n="17"/>l'Empereur n'eut lui meme donne l'exemple. je lui rappelle le
+      <lb n="16"/>rien demander que de juste a l'Electeur de Treves <choice><orig>Trèves</orig></choice> , rien dont
+      <lb n="17"/>l'Empereur n'eut lui meme donne <choice><orig>donné</orig></choice> l'exemple. je lui rappelle le
       <lb n="18"/>soin que la Nation Françoise a pris de prevenir sur le change
-
       <lb n="19"/>les rassemblemens de Brabançons qui paroissoient vouloir se former
       <lb n="20"/>dans le voisinage des Pays-Bas autrichiens. Enfin je lui renouvelle
       <lb n="21"/>le vœu de la France pour la conservation de la paix. mais en
       <lb n="22"/>meme temps, je lui declare que si a l'époque que j'ai fixée
-      <lb n="23"/>l'Electeur de Treves n'a pas effectivement et reellement dissipe
-      <lb n="24"/>les rassemblemens qui existent dans ses Etats, rien ne m'empechera
+      <lb n="23"/>l'Electeur de Treves <choice><orig>Trèves</orig></choice> n'a pas effectivement et reellement dissipe <choice><orig>dissipé</orig></choice>
+      <lb n="24"/>les rassemblemens qui existent dans ses Etats, rien ne m'empechera <choice><orig>m'empêchera</orig></choice>
       </p>
       </body>
   </text>   

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng"
+            type="application/xml"
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+ <TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+    <fileDesc>
+          <titleStmt>
+        <title>Electronic Edition of Louis XVI's Letter to the Assemblée Nationale (31 December 1791)</title>
+        <author key="Louis_XVI">Louis XVI, King of France (1754–1793)</author>
+        <editor>Ace Long</editor>
+            </titleStmt>
+      
+
+                    <publicationStmt>
+        <publisher>St. Francis Xavier University</publisher>
+        <pubPlace>Antigonish, Nova Scotia</pubPlace>
+        <date when="2026-11-10">2026-11-10</date>
+        <availability status="free">
+                          <licence target="https://creativecommons.org/licenses/by/4.0/">
+                              Distributed under a Creative Commons Attribution 4.0 International license.
+                          </licence>
+                        </availability>
+                    </publicationStmt>
+ 
+      <sourceDesc>
+     <msDesc>
+      <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>London</settlement>
+            <repository ref="https://viaf.org/en/viaf/121010765">British Library</repository>
+            <collection>Stefan Zweig Collection</collection>
+            <idno type="shelfmark">Zweig MS 169</idno>
+            <altIdentifier type="ark">
+              <idno>ark:/81055/vdc_100139607660.0x000001</idno>
+            </altIdentifier>
+      </msIdentifier>
+
+          <msContents>
+            <summary>Decree/communication from King Louis XVI addressed to the Assemblée Nationale regarding diplomatic relations with the Emperor and the Elector of Trier.</summary>
+            <textLang mainLang="fre">French</textLang>
+            <msItem class="official-document">
+              <author key="Louis_XVI">Louis XVI</author>
+              <title>Letter to the Assemblée Nationale</title>
+              <note type="date">
+                <date when="1791-12-31">31 December 1791</date></note>
+            </msItem>
+          </msContents>
+
+          <physDesc>
+            <objectDesc form="manuscript">
+              <supportDesc material="paper">
+                <support>
+                  <p>Handmade paper</p>
+                </support>
+                <extent>
+                  <measure unit="leaf" quantity="2">2 folios (ff. 2)</measure>
+                  <dimensions type="leaf" unit="mm">
+                    <height>230</height>
+                    <width>187</width>
+                  </dimensions>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote xml:id="h1" script="Latin">Handwritten script in French (Latin alphabet).</scriptNote>
+            </scriptDesc>
+          </physDesc>
+
+                <history>
+                    <origin>
+              <origDate when="1791-12-31">31 December 1791</origDate>
+                      <origPlace>France</origPlace>
+                    </origin>
+                      <provenance>Part of the Stefan Zweig Collection of manuscripts.</provenance>
+                </history>
+</msDesc>
+
+        <bibl type="digitalSurrogate">
+          <title>British Library Zweig MS 169</title>
+          <ref target="https://searcharchives.bl.uk/catalog/040-001945929"/>
+          <ref target="https://bl.digirati.io/iiif/ark:/81055/vdc_100139607660.0x000001"/>
+        </bibl>
+</sourceDesc>
+</fileDesc>
+ 
+<encodingDesc>
+    <projectDesc>
+      <p>Transcription prepared from a digital facsimile and normalized for readability while preserving original capitalization, punctuation, and orthographic choices where possible.</p>
+      <p>Normalize accents and abbreviations. Leave capitalization and punctuation as in the original, correcting spacing around punctuation, and consult the French dictionary and authorial usage as needed.</p>
+    </projectDesc>
+  </encodingDesc>
+  
+</teiHeader>
+   
+              <facsimile>
+    <surface xml:id="Front_page" ulx="0" uly="0" lrx="1590" lry="2000">
+      <graphic url="default.jpg"/>
+      <zone type="Heading" ulx="140" uly="40" lrx="600" lry="100"/>
+      <zone type="Date" ulx="980" uly="40" lrx="1250" lry="100"/>
+      <zone type="Body" ulx="140" uly="110" lrx="1540" lry="1920"/>
+                      </surface>
+              </facsimile>
+
+<text>
+    <body>
+      <pb n="1" facs="#Front_page"/>
+      <p><lb n="1"/>a l'Assemblée Nationale.</p>
+        <p><lb n="2"/><date when="1791-12-31">31 déc <choice><abbr>décember</abbr></choice> 1791</date></p>
+      <p>
+      <lb n="3"/>J'ai <choice><orig>charge</orig><reg resp="#gemini">chargé</reg></choice> le Ministre des affaires <choice><orig>etrangeres</orig><reg resp="#gemini">étrangères</reg></choice>, <choice><abbr>MM</abbr><expan resp="#gemini">Messieurs</expan></choice>, de vous communiquer
+     <lb n="4"/>l'office que l'Empereur a fait remettre <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> l'ambassadeur de France <choice><orig>a</orig><reg resp="#gemini">à</reg></choice>
+
+      <lb n="5"/>Vienne. Cet office je dois le dire, m'a cause <choice><orig>causé</orig></choice>le plus grand etonnement <choice><orig>étonnement</orig></choice>.
+     <lb n="6"/>J'<choice><orig>avois</orig><reg resp="#gemini">avais</reg></choice> droit <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> compter sur les <choice><orig>sentimens</orig><reg resp="#gemini">sentiments</reg></choice> de l'Empereur et sur son
+      <lb n="7"/>desir de conserver avec la France la bonne intelligence et tous les
+      <lb n="8"/>rapports, qui doivent regner entre deux allies <choice><orig>alliés</orig></choice>. je ne peux pas
+      <lb n="9"/>croire encore que ses dispositions soient changées, j'aime <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> me
+
+      <lb n="10"/>persuader qu'il a ete <choice><orig>été</orig></choice> trompe <choice><orig>trompé</orig></choice> sur la verite <choice><orig>verité</orig></choice> des faits, qu'il a
+     <lb n="11"/>au que l'Electeur de <choice><orig>Treves</orig><reg resp="#gemini">Trèves</reg></choice> <choice><orig>avoit</orig><reg resp="#gemini">avait</reg></choice> satisfait aux devoirs de la
+
+      <lb n="12"/>justice et du bon voisinage, et que neantmoins ce prince avoit a
+      <lb n="13"/> que ses états ne fussent exposés a des violences ou a descraindre
+      <lb n="14"/>incursions particulieres.
+      </p>
+    <p>
+      <lb n="15"/>Dans la <choice><orig>reponse</orig><reg resp="#gemini">réponse</reg></choice> que je fais <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> l'Empereur, je lui <choice><orig>repete</orig><reg resp="#gemini">répète</reg></choice> que je n'ai
+
+      <lb n="16"/>rien demander que de juste a l'Electeur de Treves <choice><orig>Trèves</orig></choice> , rien dont
+      <lb n="17"/>l'Empereur n'eut lui meme donne <choice><orig>donné</orig></choice> l'exemple. je lui rappelle le
+      <lb n="18"/>soin que la Nation Françoise a pris de prevenir sur le change
+      <lb n="19"/>les <choice><orig>rassemblemens</orig><reg resp="#gemini">rassemblements</reg></choice> de Brabançons qui <choice><orig>paroissoient</orig><reg resp="#gemini">paraissaient</reg></choice> vouloir se former
+      <lb n="20"/>dans le voisinage des Pays-Bas autrichiens. Enfin je lui renouvelle
+      <lb n="21"/>le vœu de la France pour la conservation de la paix. mais en
+      <lb n="22"/>meme temps, je lui declare que si a l'époque que j'ai fixée
+     <lb n="23"/>l'Electeur de <choice><orig>Treves</orig><reg resp="#gemini">Trèves</reg></choice> n'a pas effectivement et <choice><orig>reellement</orig><reg resp="#gemini">réellement</reg></choice> <choice><orig>dissipe</orig><reg resp="#gemini">dissipé</reg></choice>
+      <lb n="24"/>les <choice><orig>rassemblemens</orig><reg resp="#gemini">rassemblements</reg></choice> qui existent dans ses <choice><orig>Etats</orig><reg resp="#gemini">États</reg></choice>, rien ne <choice><orig>m'empechera</orig><reg resp="#gemini">m'empêchera</reg></choice>
+      </p>
+      </body>
+  </text>   
+</TEI>

@@ -1,0 +1,37 @@
+
+
+
+<text>
+    <body>
+      <pb n="1" facs="#Front_page"/>
+      <p><lb n="1"/><choice><orig>a</orig><reg resp="#gemini">à</reg></choice> l'Assemblée Nationale.</p>
+        <p><lb n="2"/><date when="1791-12-31">31 <choice><abbr>déc</abbr><expan resp="#gemini">décembre</expan></choice> 1791</date></p>
+      <p>
+      <lb n="3"/>J'ai <choice><orig>charge</orig><reg resp="#gemini">chargé</reg></choice> le Ministre des affaires <choice><orig>etrangeres</orig><reg resp="#gemini">étrangères</reg></choice>, <choice><abbr>MM</abbr><expan resp="#gemini">Messieurs</expan></choice>, de vous communiquer
+      <lb n="4"/>l'office que l'Empereur a fait remettre <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> l'ambassadeur de France <choice><orig>a</orig><reg resp="#gemini">à</reg></choice>
+      <lb n="5"/>Vienne. Cet office je dois le dire, m'a <choice><orig>cause</orig><reg resp="#gemini">causé</reg></choice> le plus grand <choice><orig>etonnement</orig><reg resp="#gemini">étonnement</reg></choice>.
+      <lb n="6"/>J'<choice><orig>avois</orig><reg resp="#gemini">avais</reg></choice> droit <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> compter sur les <choice><orig>sentimens</orig><reg resp="#gemini">sentiments</reg></choice> de l'Empereur et sur son
+      <lb n="7"/>desir de conserver avec la France la bonne intelligence et tous les
+      <lb n="8"/>rapports, qui doivent regner entre deux <choice><orig>allies</orig><reg resp="#gemini">alliés</reg></choice>. je ne peux pas
+      <lb n="9"/>croire encore que ses dispositions soient changées, j'aime <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> me
+      <lb n="10"/>persuader qu'il a <choice><orig>ete</orig><reg resp="#gemini">été</reg></choice> <choice><orig>trompe</orig><reg resp="#gemini">trompé</reg></choice> sur la <choice><orig>verite</orig><reg resp="#gemini">vérité</reg></choice> des faits, qu'il a
+      <lb n="11"/>au que l'Electeur de <choice><orig>Treves</orig><reg resp="#gemini">Trèves</reg></choice> <choice><orig>avoit</orig><reg resp="#gemini">avait</reg></choice> satisfait aux devoirs de la
+      <lb n="12"/>justice et du bon voisinage, et que neantmoins ce prince <choice><orig>avoit</orig><reg resp="#gemini">avait</reg></choice> <choice><orig>a</orig><reg resp="#gemini">à</reg></choice>
+      <lb n="13"/> que ses états ne fussent exposés <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> des violences ou <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> descraindre
+      <lb n="14"/>incursions particulieres.
+      </p>
+    <p>
+      <lb n="15"/>Dans la <choice><orig>reponse</orig><reg resp="#gemini">réponse</reg></choice> que je fais <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> l'Empereur, je lui <choice><orig>repete</orig><reg resp="#gemini">répète</reg></choice> que je n'ai
+      <lb n="16"/>rien <choice><orig>demander</orig><reg resp="#gemini">demandé</reg></choice> que de juste <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> l'Electeur de <choice><orig>Treves</orig><reg resp="#gemini">Trèves</reg></choice>, rien dont
+      <lb n="17"/>l'Empereur n'eut lui <choice><orig>meme</orig><reg resp="#gemini">même</reg></choice> <choice><orig>donne</orig><reg resp="#gemini">donné</reg></choice> l'exemple. je lui rappelle le
+      <lb n="18"/>soin que la Nation <choice><orig>Françoise</orig><reg resp="#gemini">Française</reg></choice> a pris de <choice><orig>prevenir</orig><reg resp="#gemini">prévenir</reg></choice> sur le change
+      <lb n="19"/>les <choice><orig>rassemblemens</orig><reg resp="#gemini">rassemblements</reg></choice> de Brabançons qui <choice><orig>paroissoient</orig><reg resp="#gemini">paraissaient</reg></choice> vouloir se former
+      <lb n="20"/>dans le voisinage des Pays-Bas autrichiens. Enfin je lui renouvelle
+      <lb n="21"/>le vœu de la France pour la conservation de la paix. mais en
+      <lb n="22"/><choice><orig>meme</orig><reg resp="#gemini">même</reg></choice> temps, je lui <choice><orig>declare</orig><reg resp="#gemini">déclare</reg></choice> que si <choice><orig>a</orig><reg resp="#gemini">à</reg></choice> l'époque que j'ai fixée
+      <lb n="23"/>l'Electeur de <choice><orig>Treves</orig><reg resp="#gemini">Trèves</reg></choice> n'a pas effectivement et <choice><orig>reellement</orig><reg resp="#gemini">réellement</reg></choice> <choice><orig>dissipe</orig><reg resp="#gemini">dissipé</reg></choice>
+      <lb n="24"/>les <choice><orig>rassemblemens</orig><reg resp="#gemini">rassemblements</reg></choice> qui existent dans ses <choice><orig>Etats</orig><reg resp="#gemini">États</reg></choice>, rien ne <choice><orig>m'empechera</orig><reg resp="#gemini">m'empêchera</reg></choice>
+      </p>
+    </body>
+</text>
+```

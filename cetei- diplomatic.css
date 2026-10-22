@@ -1,0 +1,7 @@
+.tei-head { display: block; font-size: 1.4em; font-weight: bold; }
+.tei-p { display: block; }
+.tei-reg, .tei-expan, .tei-corr { display: none; }
+.tei-lb::before { content: "\A" attr(n) " "; white-space: pre; color: #666; }
+.tei-hi[rend=
+"sup"] { vertical-align: super; font-size: 0.75em; }
+.tei-unclear { text-decoration: underline dotted; }

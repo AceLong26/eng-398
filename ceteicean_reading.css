@@ -1,0 +1,6 @@
+.tei-head { display: block; font-size: 1.4em; font-weight: bold; margin: 1em 0
+0.5em; }
+.tei-p { display: block; margin-bottom: 1em; }
+.tei-orig, .tei-abbr, .tei-sic { display: none; }
+.tei-expan .tei-ex { font-style: italic; }
+.tei-unclear { text-decoration: underline dotted; }

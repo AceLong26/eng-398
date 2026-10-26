@@ -47,6 +47,7 @@
 
   <!-- <lb/> -> Start a new numbered line retaining milestone with @data-n -->
   <xsl:template match="tei:lb">
+    <br/>
     <span class="lb" data-n="{@n}">
       <xsl:value-of select="@n"/>
       <xsl:text> </xsl:text>

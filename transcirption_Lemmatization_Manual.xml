@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Manual Lemmatization and Grammatical Annotation Sample (20 Tokens)</title>
+        <editor>Ace Long</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Digital Methods Coursework - Lesson 8.1</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Excerpt from King Louis XVI, Letter to the Assemblée Nationale (31 December 1791), Zweig MS 169</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <w lemma="dans" pos="ADP">Dans</w>
+        <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w lemma="réponse" pos="NOUN" msd="Gender=Fem|Number=Sing"><choice><orig>reponse</orig><reg>réponse</reg></choice></w>
+        <w lemma="que" pos="PRON" msd="PronType=Rel">que</w>
+        <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w lemma="faire" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">fais</w>
+        <w lemma="à" pos="ADP"><choice><orig>a</orig><reg>à</reg></choice></w>
+        <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w lemma="Empereur" pos="PROPN" msd="Gender=Masc|Number=Sing">Empereur</w><pc>,</pc>
+        <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w lemma="lui" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">lui</w>
+        <w lemma="répéter" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"><choice><orig>repete</orig><reg>répète</reg></choice></w>
+        <w lemma="que" pos="SCONJ">que</w>
+        <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w lemma="ne" pos="ADV" msd="Polarity=Neg">n'</w><w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
+        <w lemma="rien" pos="PRON" msd="Gender=Masc|Number=Sing|PronType=Neg">rien</w>
+        <w lemma="demander" pos="VERB" msd="Tense=Past|VerbForm=Part"><choice><orig>demander</orig><reg>demandé</reg></choice></w>
+        <w lemma="que" pos="ADV">que</w>
+        <w lemma="de" pos="ADP">de</w>
+        <w lemma="juste" pos="ADJ" msd="Gender=Masc|Number=Sing">juste</w>
+      </p>
+    </body>
+  </text>
+</TEI>

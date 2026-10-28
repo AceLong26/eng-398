@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Manual Lemmatization and Grammatical Annotation 20 lines</title>
+        <editor>Ace Long</editor>
+      </titleStmt>  
+      <sourceDesc>
+        <p>Excerpt from King Louis XVI, Letter to the Assemblée Nationale (31 December 1791), Zweig MS 169</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <w lemma="À" pos='ADP'><choice><orig>A</orig><reg>À</reg></choice></w>
+        
+        <w lemma="l'" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w lemma="Assemblée" pos="PROPN" msd="Gender=Fem|Number=Sing">Assemblée</w>
+        
+        <w lemma="Nationale" pos="PROPN" msd="Gender=Fem|Number=Sing">Nationale</w>
+        
+        <w lemma="J'" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">J'</w>
+        <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
+
+        <w lemma="Change" pos="NOUN" msd="Gender=Masc|Number=Sing">Change<choice><orig>charge</orig><reg resp="#gemini">chargé</reg></choice></w>
+        
+        <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+
+        <w lemma="Ministre" pos="NOUN" msd="Gender=Masc|Number=Sing">Ministre</w>
+        
+        <w lemma="des" pos="ADP">des</w>
+        
+        <w lemma="affaires" pos="NOUN" msd="Gender=Fem|Number=Plur">affaires</w>
+        
+        <w lemma="etrangeres" pos="NOUN" msd="Gender=Fem|Number=Plur">étrangères<choice><orig>etrangeres</orig><reg resp="#gemini">étrangères</reg></choice></w>
+        
+        <w lemma="Messieurs" pos="PROPN" msd="Gender=Masc|Number=Plur">Messieurs<choice><abbr>MM</abbr><expan resp="#gemini">Messieurs</expan></choice></w>
+
+        <w lemma="de" pos="ADP">de</w>
+
+        <w lemma="vous" pos="PRON" msd="Number=Plur|Person=2|PronType=Prs">vous</w>
+
+        <w lemma="communiquer" pos="VERB" msd="Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin">communiquez</w>
+        
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,292 @@
+<ab xmlns="http://www.tei-c.org/ns/1.0" type="linguistic_layer">
+  <w lemma="à" pos="ADP">À</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="assemblée" pos="NOUN" msd="Number=Sing">Assemblée</w>
+  <w lemma="national" pos="ADJ" msd="Gender=Fem|Number=Sing">Nationale</w>
+  <pc pos="PUNCT">.</pc>
+  <w lemma="31" pos="NUM" msd="NumType=Card">31</w>
+  <w lemma="décembre" pos="NOUN" msd="Gender=Masc|Number=Sing">décembre</w>
+  <w lemma="1791" pos="NUM" msd="NumType=Card">1791</w>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">J'</w>
+  <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
+  <w lemma="charger" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">chargé</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+  <w lemma="ministre" pos="NOUN" msd="Gender=Masc|Number=Sing">Ministre</w>
+  <w lemma="de" pos="ADP" msd="Definite=Def|Number=Plur|PronType=Art">des</w>
+  <w lemma="affaire" pos="NOUN" msd="Gender=Fem|Number=Plur">affaires</w>
+  <w lemma="étranger" pos="ADJ" msd="Gender=Fem|Number=Plur">étrangères</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="monsieur" pos="NOUN" msd="Gender=Masc|Number=Plur">Messieurs</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="vous" pos="PRON" msd="Number=Plur|Person=2">vous</w>
+  <w lemma="communiquer" pos="VERB" msd="VerbForm=Inf">communiquer</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="office" pos="NOUN" msd="Number=Sing">office</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="empereur" pos="NOUN" msd="Gender=Masc|Number=Sing">Empereur</w>
+  <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+  <w lemma="faire" pos="AUX" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">fait</w>
+  <w lemma="remettre" pos="VERB" msd="VerbForm=Inf">remettre</w>
+  <w lemma="à" pos="ADP">à</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="ambassadeur" pos="NOUN" msd="Gender=Masc|Number=Sing">ambassadeur</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="France" pos="PROPN" msd="Gender=Fem|Number=Sing">France</w>
+  <w lemma="à" pos="ADP">à</w>
+  <w lemma="Vienne" pos="PROPN">Vienne</w>
+  <pc pos="PUNCT">.</pc>
+  <w lemma="ce" pos="DET" msd="Gender=Masc|Number=Sing|PronType=Dem">Cet</w>
+  <w lemma="office" pos="NOUN" msd="Gender=Masc|Number=Sing">office</w>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">je</w>
+  <w lemma="devoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">dois</w>
+  <w lemma="le" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3">le</w>
+  <w lemma="dire" pos="VERB" msd="VerbForm=Inf">dire</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="me" pos="PRON" msd="Number=Sing|Person=1">m'</w>
+  <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+  <w lemma="causer" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">causé</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+  <w lemma="plus" pos="ADV">plus</w>
+  <w lemma="grand" pos="ADJ" msd="Gender=Masc|Number=Sing">grand</w>
+  <w lemma="étonnement" pos="ADV">étonnement</w>
+  <pc pos="PUNCT">.</pc>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">J'</w>
+  <w lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">avais</w>
+  <w lemma="droit" pos="ADJ" msd="Gender=Masc|Number=Sing">droit</w>
+  <w lemma="à" pos="ADP">à</w>
+  <w lemma="compter" pos="VERB" msd="VerbForm=Inf">compter</w>
+  <w lemma="sur" pos="ADP">sur</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Plur|PronType=Art">les</w>
+  <w lemma="sentiment" pos="NOUN" msd="Gender=Masc|Number=Plur">sentiments</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="empereur" pos="NOUN" msd="Gender=Masc|Number=Sing">Empereur</w>
+  <w lemma="et" pos="CCONJ">et</w>
+  <w lemma="sur" pos="ADP">sur</w>
+  <w lemma="son" pos="DET" msd="Number=Sing|Poss=Yes">son</w>
+  <w lemma="desir" pos="NOUN" msd="Gender=Masc|Number=Sing">desir</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="conserver" pos="VERB" msd="VerbForm=Inf">conserver</w>
+  <w lemma="avec" pos="ADP">avec</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+  <w lemma="France" pos="PROPN" msd="Gender=Fem|Number=Sing">France</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+  <w lemma="bon" pos="ADJ" msd="Gender=Fem|Number=Sing">bonne</w>
+  <w lemma="intelligence" pos="NOUN" msd="Gender=Fem|Number=Sing">intelligence</w>
+  <w lemma="et" pos="CCONJ">et</w>
+  <w lemma="tout" pos="ADJ" msd="Gender=Masc|Number=Plur">tous</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Plur|PronType=Art">les</w>
+  <w lemma="rapport" pos="NOUN" msd="Gender=Masc|Number=Plur">rapports</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="qui" pos="PRON" msd="PronType=Rel">qui</w>
+  <w lemma="devoir" pos="VERB" msd="Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin">doivent</w>
+  <w lemma="régner" pos="VERB" msd="VerbForm=Inf">régner</w>
+  <w lemma="entrer" pos="ADP">entre</w>
+  <w lemma="deux" pos="NUM" msd="NumType=Card">deux</w>
+  <w lemma="allié" pos="NOUN" msd="Gender=Masc|Number=Plur">alliés</w>
+  <pc pos="PUNCT">.</pc>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">je</w>
+  <w lemma="ne" pos="ADV" msd="Polarity=Neg">ne</w>
+  <w lemma="pouvoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">peux</w>
+  <w lemma="pas" pos="ADV" msd="Polarity=Neg">pas</w>
+  <w lemma="croire" pos="VERB" msd="VerbForm=Inf">croire</w>
+  <w lemma="encore" pos="ADV">encore</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="son" pos="DET" msd="Number=Plur|Poss=Yes">ses</w>
+  <w lemma="disposition" pos="NOUN" msd="Gender=Fem|Number=Plur">dispositions</w>
+  <w lemma="être" pos="AUX" msd="Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin">soient</w>
+  <w lemma="changer" pos="VERB" msd="Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass">changées</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">j'</w>
+  <w lemma="aimer" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">aime</w>
+  <w lemma="à" pos="ADP">à</w>
+  <w lemma="me" pos="PRON" msd="Number=Sing|Person=1|Reflex=Yes">me</w>
+  <w lemma="persuader" pos="VERB" msd="VerbForm=Inf">persuader</w>
+  <w lemma="que" pos="SCONJ">qu'</w>
+  <w lemma="il" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3">il</w>
+  <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+  <w lemma="être" pos="AUX" msd="Tense=Past|VerbForm=Part">été</w>
+  <w lemma="tromper" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass">trompé</w>
+  <w lemma="sur" pos="ADP">sur</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+  <w lemma="vérité" pos="NOUN" msd="Gender=Fem|Number=Sing">vérité</w>
+  <w lemma="de" pos="ADP" msd="Definite=Def|Number=Plur|PronType=Art">des</w>
+  <w lemma="fait" pos="NOUN" msd="Gender=Masc|Number=Plur">faits</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="que" pos="SCONJ">qu'</w>
+  <w lemma="il" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3">il</w>
+  <w lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+  <w lemma="au" pos="ADP" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">au</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="electeur" pos="NOUN" msd="Gender=Masc|Number=Sing">Electeur</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="trève" pos="NOUN" msd="Number=Plur">Trèves</w>
+  <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin">avait</w>
+  <w lemma="satisfait" pos="ADJ" msd="Gender=Masc|Number=Sing">satisfait</w>
+  <w lemma="à" pos="ADP" msd="Definite=Def|Number=Plur|PronType=Art">aux</w>
+  <w lemma="devoir" pos="NOUN" msd="Gender=Masc|Number=Plur">devoirs</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+  <w lemma="justice" pos="NOUN" msd="Gender=Fem|Number=Sing">justice</w>
+  <w lemma="et" pos="CCONJ">et</w>
+  <w lemma="de" pos="ADP" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">du</w>
+  <w lemma="bon" pos="ADJ" msd="Gender=Masc|Number=Sing">bon</w>
+  <w lemma="voisinage" pos="NOUN" msd="Gender=Masc|Number=Sing">voisinage</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="et" pos="CCONJ">et</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="néanmoins" pos="ADV">néanmoins</w>
+  <w lemma="ce" pos="DET" msd="Gender=Masc|Number=Sing|PronType=Dem">ce</w>
+  <w lemma="prince" pos="NOUN" msd="Gender=Fem|Number=Sing">prince</w>
+  <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin">avait</w>
+  <w lemma="à" pos="ADP">à</w>
+  <w lemma="craindre" pos="VERB" msd="VerbForm=Inf">craindre</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="son" pos="DET" msd="Number=Plur|Poss=Yes">ses</w>
+  <w lemma="état" pos="NOUN" msd="Gender=Masc|Number=Plur">états</w>
+  <w lemma="ne" pos="ADV" msd="Polarity=Neg">ne</w>
+  <w lemma="être" pos="ADV">fussent</w>
+  <w lemma="exposer" pos="VERB" msd="Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass">exposés</w>
+  <w lemma="à" pos="ADP">à</w>
+  <w lemma="un" pos="DET" msd="Definite=Ind|Number=Plur|PronType=Art">des</w>
+  <w lemma="violence" pos="NOUN" msd="Gender=Fem|Number=Plur">violences</w>
+  <w lemma="ou" pos="CCONJ">ou</w>
+  <w lemma="à" pos="ADP">à</w>
+  <w lemma="un" pos="DET" msd="Definite=Ind|Number=Plur|PronType=Art">des</w>
+  <w lemma="incursion" pos="NOUN" msd="Gender=Fem|Number=Plur">incursions</w>
+  <w lemma="particulier" pos="ADJ" msd="Gender=Fem|Number=Plur">particulières</w>
+  <pc pos="PUNCT">.</pc>
+  <w lemma="dans" pos="ADP">Dans</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+  <w lemma="réponse" pos="NOUN" msd="Gender=Fem|Number=Sing">réponse</w>
+  <w lemma="que" pos="PRON" msd="PronType=Rel">que</w>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">je</w>
+  <w lemma="faire" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">fais</w>
+  <w lemma="à" pos="ADP">à</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="empereur" pos="NOUN" msd="Gender=Masc|Number=Sing">Empereur</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">je</w>
+  <w lemma="luire" pos="PRON" msd="Number=Sing|Person=3">lui</w>
+  <w lemma="répéter" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">répète</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">je</w>
+  <w lemma="ne" pos="ADV" msd="Polarity=Neg">n'</w>
+  <w lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
+  <w lemma="rien" pos="PRON" msd="Number=Sing">rien</w>
+  <w lemma="demander" pos="VERB" msd="VerbForm=Inf">demander</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="juste" pos="ADJ" msd="Number=Sing">juste</w>
+  <w lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="electeur" pos="NOUN" msd="Gender=Masc|Number=Sing">Electeur</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="Trèves" pos="PROPN">Trèves</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="rien" pos="PRON" msd="Number=Sing">rien</w>
+  <w lemma="dont" pos="PRON" msd="PronType=Rel">dont</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="empereur" pos="NOUN" msd="Gender=Masc|Number=Sing">Empereur</w>
+  <w lemma="ne" pos="ADV" msd="Polarity=Neg">n'</w>
+  <w lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin">eut</w>
+  <w lemma="luire" pos="PRON" msd="Number=Sing|Person=3">lui</w>
+  <w lemma="même" pos="ADV">même</w>
+  <w lemma="donner" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">donné</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="exemple" pos="NOUN" msd="Gender=Masc|Number=Sing">exemple</w>
+  <pc pos="PUNCT">.</pc>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">je</w>
+  <w lemma="luire" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">lui</w>
+  <w lemma="rappeler" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">rappelle</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+  <w lemma="soin" pos="NOUN" msd="Gender=Masc|Number=Sing">soin</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+  <w lemma="nation" pos="NOUN" msd="Gender=Fem|Number=Sing">Nation</w>
+  <w lemma="Française" pos="PROPN">Française</w>
+  <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+  <w lemma="prendre" pos="VERB" msd="Gender=Masc|Tense=Past|VerbForm=Part">pris</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="prévenir" pos="VERB" msd="VerbForm=Inf">prévenir</w>
+  <w lemma="sur" pos="ADP">sur</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+  <w lemma="change" pos="NOUN" msd="Gender=Masc|Number=Sing">change</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Plur|PronType=Art">les</w>
+  <w lemma="rassemblement" pos="NOUN" msd="Gender=Masc|Number=Plur">rassemblements</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="brabançon" pos="NOUN" msd="Gender=Fem|Number=Plur">Brabançons</w>
+  <w lemma="qui" pos="PRON" msd="PronType=Rel">qui</w>
+  <w lemma="paraître" pos="VERB" msd="Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin">paraissaient</w>
+  <w lemma="vouloir" pos="VERB" msd="VerbForm=Inf">vouloir</w>
+  <w lemma="se" pos="PRON" msd="Person=3|Reflex=Yes">se</w>
+  <w lemma="former" pos="VERB" msd="VerbForm=Inf">former</w>
+  <w lemma="dans" pos="ADP">dans</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+  <w lemma="voisinage" pos="NOUN" msd="Gender=Masc|Number=Sing">voisinage</w>
+  <w lemma="de" pos="ADP" msd="Definite=Def|Number=Plur|PronType=Art">des</w>
+  <w lemma="Pays" pos="PROPN" msd="Gender=Masc|Number=Plur">Pays</w>
+  <w lemma="-" pos="PROPN" msd="Gender=Masc|Number=Plur">-</w>
+  <w lemma="Bas" pos="PROPN" msd="Gender=Masc|Number=Plur">Bas</w>
+  <w lemma="autrichien" pos="ADJ" msd="Gender=Masc|Number=Plur">autrichiens</w>
+  <pc pos="PUNCT">.</pc>
+  <w lemma="enfin" pos="ADV">Enfin</w>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">je</w>
+  <w lemma="luire" pos="PRON" msd="Number=Sing|Person=3">lui</w>
+  <w lemma="renouvell" pos="ADJ" msd="Gender=Fem|Number=Sing">renouvelle</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+  <w lemma="vœu" pos="NOUN" msd="Gender=Masc|Number=Sing">vœu</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+  <w lemma="France" pos="PROPN" msd="Gender=Fem|Number=Sing">France</w>
+  <w lemma="pour" pos="ADP">pour</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+  <w lemma="conservation" pos="NOUN" msd="Gender=Fem|Number=Sing">conservation</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+  <w lemma="paix" pos="NOUN" msd="Gender=Fem|Number=Sing">paix</w>
+  <pc pos="PUNCT">.</pc>
+  <w lemma="mais" pos="CCONJ">mais</w>
+  <w lemma="en" pos="ADP">en</w>
+  <w lemma="même" pos="ADJ" msd="Number=Sing">même</w>
+  <w lemma="temps" pos="NOUN" msd="Gender=Masc">temps</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">je</w>
+  <w lemma="luire" pos="PRON" msd="Number=Sing|Person=3">lui</w>
+  <w lemma="déclarer" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">déclare</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="si" pos="SCONJ">si</w>
+  <w lemma="à" pos="ADP">à</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="époque" pos="NOUN" msd="Gender=Fem|Number=Sing">époque</w>
+  <w lemma="que" pos="SCONJ">que</w>
+  <w lemma="je" pos="PRON" msd="Number=Sing|Person=1">j'</w>
+  <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
+  <w lemma="fixer" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">fixée</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Sing|PronType=Art">l'</w>
+  <w lemma="electeur" pos="NOUN" msd="Gender=Masc|Number=Sing">Electeur</w>
+  <w lemma="de" pos="ADP">de</w>
+  <w lemma="trève" pos="NOUN" msd="Number=Plur">Trèves</w>
+  <w lemma="ne" pos="ADV" msd="Polarity=Neg">n'</w>
+  <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+  <w lemma="pas" pos="ADV" msd="Polarity=Neg">pas</w>
+  <w lemma="effectivement" pos="ADV">effectivement</w>
+  <w lemma="et" pos="CCONJ">et</w>
+  <w lemma="réellement" pos="ADV">réellement</w>
+  <w lemma="dissipé" pos="ADJ" msd="Gender=Masc|Number=Sing">dissipé</w>
+  <w lemma="le" pos="DET" msd="Definite=Def|Number=Plur|PronType=Art">les</w>
+  <w lemma="rassemblement" pos="NOUN" msd="Gender=Masc|Number=Plur">rassemblements</w>
+  <w lemma="qui" pos="PRON" msd="PronType=Rel">qui</w>
+  <w lemma="exister" pos="VERB" msd="Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin">existent</w>
+  <w lemma="dans" pos="ADP">dans</w>
+  <w lemma="son" pos="DET" msd="Number=Plur|Poss=Yes">ses</w>
+  <w lemma="état" pos="NOUN" msd="Gender=Masc|Number=Plur">États</w>
+  <pc pos="PUNCT">,</pc>
+  <w lemma="rien" pos="PRON" msd="Number=Sing">rien</w>
+  <w lemma="ne" pos="ADV" msd="Polarity=Neg">ne</w>
+  <w lemma="me" pos="PRON" msd="Number=Sing|Person=1">m'</w>
+  <w lemma="empêcher" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin">empêchera</w>
+</ab>

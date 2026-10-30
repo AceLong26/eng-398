@@ -321,7 +321,7 @@
         <w lemma="état" pos="NOUN" msd="Gender=Masc|Number=Plur"><choice><orig>Etats</orig><reg resp="#gemini">États</reg></choice></w><pc pos="PUNCT">,</pc>
         <w lemma="rien" pos="PRON" msd="Gender=Masc|Number=Sing|PronType=Neg">rien</w>
         <w lemma="ne" pos="ADV" msd="Polarity=Neg">ne</w>
-        <w lemma="me" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">m'</w><w lemma="empêcher" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin"><choice><orig>empechera</orig><reg resp="#gemini">m'empêchera</reg></choice></w>
+        <w lemma="me" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">m'</w><w lemma="empêcher" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin"><choice><orig>empechera</orig><reg resp="#gemini">empêchera</reg></choice></w>
       </p>
     </body>
   </text>

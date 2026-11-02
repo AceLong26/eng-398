@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ab xmlns="http://www.tei-c.org/ns/1.0" type="merged_lemma">
+  <w lemma="je" pos="PRON" resp="M">J'</w>
+  <w lemma="avoir" pos="AUX" resp="M">ai</w>
+  <w lemma="charger" pos="VERB" resp="M">chargé</w>
+  <w lemma="le" pos="DET" resp="M">le</w>
+  <w lemma="ministre" pos="NOUN" resp="M">Ministre</w>
+  <w lemma="de" pos="ADP" resp="M">de</w>
+  <w lemma="affaire" pos="NOUN" resp="M">affaires</w>
+  <w lemma="étranger" pos="ADJ" resp="M">étrangères</w>
+  <w lemma="messieurs" pos="NOUN" resp="M">Messieurs</w>
+  <w lemma="de" pos="ADP" resp="M">de</w>
+</ab>

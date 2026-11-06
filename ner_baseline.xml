@@ -35,9 +35,9 @@
   </teiHeader>
   <text>
     <body>
-        <pb n="1" facs="#Front_page" />
+        <pb n="1" facs="#Front_page"/>
       <p>
-        <lb n="1" />
+        <lb n="1"/>
         <w lemma="à" pos="ADP"><choice><orig>a</orig><reg>À</reg></choice></w>
         <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">l'</w>
         <orgName type="org" resp="#spacy"><w lemma="assemblée" pos="NOUN" msd="Gender=Fem|Number=Sing">Assemblée</w>
@@ -47,7 +47,6 @@
         
       <p>
         <lb n="2" />
-        
           <w lemma="31" pos="NUM" msd="NumType=Card">31</w>
           <w lemma="décembre" pos="NOUN" msd="Gender=Masc|Number=Sing"><choice><abbr>xbre</abbr><expan>décembre</expan></choice></w>
           <w lemma="1791" pos="NUM" msd="NumType=Card">1791</w>
@@ -80,14 +79,17 @@
         <w lemma="France" pos="PROPN" msd="Gender=Fem|Number=Sing">France</w></placeName>
         <w lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
         <lb n="5" />
-        <placeName type="loc" resp="#spacy"><w lemma="Vienne" pos="PROPN" msd="Gender=Fem|Number=Sing">Vienne</w></placeName><pc pos="PUNCT">.</pc>
+        <placeName type="loc" resp="#spacy"><w lemma="Vienne" pos="PROPN" msd="Gender=Fem|Number=Sing">Vienne</w>
+        </placeName>
+        <pc pos="PUNCT">.</pc>
         <w lemma="ce" pos="DET" msd="Gender=Masc|Number=Sing|PronType=Dem">Cet</w>
         <w lemma="office" pos="NOUN" msd="Gender=Masc|Number=Sing">office</w>
         <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
         <w lemma="devoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">dois</w>
         <w lemma="le" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">le</w>
         <w lemma="dire" pos="VERB" msd="VerbForm=Inf">dire</w><pc pos="PUNCT">,</pc>
-        <w lemma="me" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">m'</w><w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+        <w lemma="me" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">m'</w>
+        <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
         <w lemma="causer" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"><choice><orig>cause</orig><reg resp="#gemini">causé</reg></choice></w>
         <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
         <w lemma="plus" pos="ADV">plus</w>

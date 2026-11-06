@@ -16,7 +16,7 @@ import spacy
 ET.register_namespace("", "http://www.tei-c.org/ns/1.0")
 TEI_NS = "http://www.tei-c.org/ns/1.0"
 
-src_file = sys.argv[1] if len(sys.argv) > 1 else "linguistic_merged.xml"
+src_file = sys.argv[1] if len(sys.argv) > 1 else "lemmatized_manualai.xml"
 out_file = sys.argv[2] if len(sys.argv) > 2 else "ner_baseline.xml"
 
 if not os.path.exists(src_file):

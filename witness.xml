@@ -110,11 +110,11 @@
         <div>
           <p>
             <choice><orig>a</orig><reg resp="#editor">à</reg></choice>
-            l'<orgName ref="wikidata:Q780457"><choice><orig>Assemblee</orig><reg resp="#editor">Assemblée</reg></choice> Nationale</orgName>
+            l'<orgName ref="wikidata:Q876424" type="legislature"><choice><orig>Assemblee</orig><reg resp="#editor">Assemblée</reg></choice> Nationale</orgName>
             <gap reason="damage" unit="chars" extent="20"/>
             <date when="1791-12-31">31 <choice><abbr type="suspension">x<hi rend="superscript">bre</hi></abbr><expan resp="#editor">décembre</expan></choice> 1791</date>.
             <gap reason="damage" unit="chars" extent="15"/>
-            1
+        
           </p>
         </div>
         <div>

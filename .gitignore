@@ -12,3 +12,6 @@ __pycache__/
 # Temporary merge conflict artifacts
 *.orig
 *.rej
+
+eng-398/
+engl-398-demo/

@@ -47,16 +47,17 @@
         </p>
         
       <p>
-        <lb n="2"/>
+        <s xml:id="s2">
         <date when="1791-12-31">
           <w lemma="31" pos="NUM" msd="NumType=Card">31</w>
           <w lemma="décembre" pos="NOUN" msd="Gender=Masc|Number=Sing"><choice><abbr>xbre</abbr><expan>décembre</expan></choice></w>
           <w lemma="1791" pos="NUM" msd="NumType=Card">1791</w>
         </date>
+        </s>
       </p>
 
       <p>
-        <lb n="3"/>
+        <s xml:id="s3">
         <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">J'</w><w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
         <w lemma="charger" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"><choice><orig>charge</orig><reg resp="#gemini">chargé</reg></choice></w>
         <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
@@ -82,6 +83,9 @@
         <w lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
         <lb n="5"/>
         <w lemma="Vienne" pos="PROPN" msd="Gender=Fem|Number=Sing">Vienne</w><pc pos="PUNCT">.</pc>
+       </s>
+
+       <s xml:id="s4">
         <w lemma="ce" pos="DET" msd="Gender=Masc|Number=Sing|PronType=Dem">Cet</w>
         <w lemma="office" pos="NOUN" msd="Gender=Masc|Number=Sing">office</w>
         <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
@@ -94,7 +98,9 @@
         <w lemma="plus" pos="ADV">plus</w>
         <w lemma="grand" pos="ADJ" msd="Gender=Masc|Number=Sing">grand</w>
         <w lemma="étonnement" pos="NOUN" msd="Gender=Masc|Number=Sing"><choice><orig>etonnement</orig><reg resp="#gemini">étonnement</reg></choice></w><pc pos="PUNCT">.</pc>
-        <lb n="6"/>
+       </s>
+       
+       <s xml:id="s5">
         <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">J'</w><w lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin"><choice><orig>avois</orig><reg resp="#gemini">avais</reg></choice></w>
         <w lemma="droit" pos="NOUN" msd="Gender=Masc|Number=Sing">droit</w>
         <w lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
@@ -107,7 +113,6 @@
         <w lemma="et" pos="CCONJ">et</w>
         <w lemma="sur" pos="ADP">sur</w>
         <w lemma="son" pos="DET" msd="Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs">son</w>
-        <lb n="7"/>
         <w lemma="désir" pos="NOUN" msd="Gender=Masc|Number=Sing">desir</w>
         <w lemma="de" pos="ADP">de</w>
         <w lemma="conserver" pos="VERB" msd="VerbForm=Inf">conserver</w>
@@ -120,7 +125,6 @@
         <w lemma="et" pos="CCONJ">et</w>
         <w lemma="tout" pos="ADJ" msd="Gender=Masc|Number=Plur">tous</w>
         <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Plur|PronType=Art">les</w>
-        <lb n="8"/>
         <w lemma="rapport" pos="NOUN" msd="Gender=Masc|Number=Plur">rapports</w><pc pos="PUNCT">,</pc>
         <w lemma="qui" pos="PRON" msd="PronType=Rel">qui</w>
         <w lemma="devoir" pos="VERB" msd="Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin">doivent</w>
@@ -128,11 +132,13 @@
         <w lemma="entre" pos="ADP">entre</w>
         <w lemma="deux" pos="NUM" msd="NumType=Card">deux</w>
         <w lemma="allié" pos="NOUN" msd="Gender=Masc|Number=Plur"><choice><orig>allies</orig><reg>alliés</reg></choice></w><pc pos="PUNCT">.</pc>
+       </s>
+
+       <s xml:id="s6">
         <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
         <w lemma="ne" pos="ADV" msd="Polarity=Neg">ne</w>
         <w lemma="pouvoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">peux</w>
         <w lemma="pas" pos="ADV" msd="Polarity=Neg">pas</w>
-        <lb n="9"/>
         <w lemma="croire" pos="VERB" msd="VerbForm=Inf">croire</w>
         <w lemma="encore" pos="ADV">encore</w>
         <w lemma="que" pos="SCONJ">que</w>
@@ -143,7 +149,6 @@
         <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">j'</w><w lemma="aimer" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">aime</w>
         <w lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
         <w lemma="me" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs|Reflex=Yes">me</w>
-        <lb n="10"/>
         <w lemma="persuader" pos="VERB" msd="VerbForm=Inf">persuader</w>
         <w lemma="que" pos="SCONJ">qu'</w><w lemma="il" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">il</w>
         <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
@@ -156,7 +161,6 @@
         <w lemma="fait" pos="NOUN" msd="Gender=Masc|Number=Plur">faits</w><pc pos="PUNCT">,</pc>
         <w lemma="que" pos="SCONJ">qu'</w><w lemma="il" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">il</w>
         <w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
-        <lb n="11"/>
         <w lemma="savoir" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">au</w>
         <w lemma="que" pos="SCONJ">que</w>
         <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w lemma="électeur" pos="NOUN" msd="Gender=Masc|Number=Sing">Electeur</w>
@@ -168,7 +172,6 @@
         <w lemma="devoir" pos="NOUN" msd="Gender=Masc|Number=Plur">devoirs</w>
         <w lemma="de" pos="ADP">de</w>
         <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
-        <lb n="12"/>
         <w lemma="justice" pos="NOUN" msd="Gender=Fem|Number=Sing">justice</w>
         <w lemma="et" pos="CCONJ">et</w>
         <w lemma="de" pos="ADP" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">du</w>
@@ -181,7 +184,6 @@
         <w lemma="prince" pos="NOUN" msd="Gender=Masc|Number=Sing">prince</w>
         <w lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin"><choice><orig>avoit</orig><reg>avait</reg></choice></w>
         <w lemma="à" pos="ADP"><choice><orig>a</orig><reg>à</reg></choice></w>
-        <lb n="13"/>
         <w lemma="craindre" pos="VERB" msd="VerbForm=Inf">craindre</w>
         <w lemma="que" pos="SCONJ">que</w>
         <w lemma="son" pos="DET" msd="Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs">ses</w>
@@ -198,10 +200,11 @@
         <lb n="14"/>
         <w lemma="incursion" pos="NOUN" msd="Gender=Fem|Number=Plur">incursions</w>
         <w lemma="particulier" pos="ADJ" msd="Gender=Fem|Number=Plur"><choice><orig>particulieres</orig><reg>particulières</reg></choice></w><pc pos="PUNCT">.</pc>
+       </s>
       </p>
 
       <p>
-        <lb n="15"/>
+  <s xml:id="s7">
         <w lemma="dans" pos="ADP">Dans</w>
         <w lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
         <w lemma="réponse" pos="NOUN" msd="Gender=Fem|Number=Sing"><choice><orig>reponse</orig><reg resp="#gemini">réponse</reg></choice></w>
@@ -216,7 +219,6 @@
         <w lemma="que" pos="SCONJ">que</w>
         <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
         <w lemma="ne" pos="ADV" msd="Polarity=Neg">n'</w><w lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
-        <lb n="16"/>
         <w lemma="rien" pos="PRON" msd="Gender=Masc|Number=Sing|PronType=Neg">rien</w>
         <w lemma="demander" pos="VERB" msd="Tense=Past|VerbForm=Part">demander</w>
         <w lemma="que" pos="ADV">que</w>
@@ -228,13 +230,16 @@
         <w lemma="Trèves" pos="PROPN" msd="Number=Sing"><choice><orig>Treves</orig><reg resp="#gemini">Trèves</reg></choice></w><pc pos="PUNCT">,</pc>
         <w lemma="rien" pos="PRON" msd="Gender=Masc|Number=Sing|PronType=Neg">rien</w>
         <w lemma="dont" pos="PRON" msd="PronType=Rel">dont</w>
-        <lb n="17"/>
-        <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w lemma="Empereur" pos="PROPN" msd="Gender=Masc|Number=Sing">Empereur</w>
+        <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w>
+        <w lemma="Empereur" pos="PROPN" msd="Gender=Masc|Number=Sing">Empereur</w>
         <w lemma="ne" pos="ADV" msd="Polarity=Neg">n'</w><w lemma="avoir" pos="AUX" msd="Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin">eut</w>
         <w lemma="lui" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">lui</w>
         <w lemma="même" pos="ADV"><choice><orig>meme</orig><reg>même</reg></choice></w>
         <w lemma="donner" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"><choice><orig>donne</orig><reg>donné</reg></choice></w>
-        <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w lemma="exemple" pos="NOUN" msd="Gender=Masc|Number=Sing">exemple</w><pc pos="PUNCT">.</pc>
+        <w lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w>
+        <w lemma="exemple" pos="NOUN" msd="Gender=Masc|Number=Sing">exemple</w><pc pos="PUNCT">.</pc>
+        </s>
+
         <w lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
         <w lemma="lui" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">lui</w>
         <w lemma="rappeler" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">rappelle</w>
@@ -327,7 +332,7 @@
     </body>
   </text>
   <standOff>
-    <linkGroup type="translation- aligment">
+    <linkGroup type="translation-aligment">
       <link target= "#s1 #t1"/>
 
     </linkGroup>

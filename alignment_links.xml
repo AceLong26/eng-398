@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Multi-Level Translation Alignment: Louis XVI Letter (31 Dec 1791)</title>
+        <author key="Louis_XVI">Louis XVI, King of France (1754–1793)</author>
+        <editor>Ace Long</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>St. Francis Xavier University</publisher>
+        <pubPlace>Antigonish, Nova Scotia</pubPlace>
+        <date when="2026-11-20">2026-11-20</date>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under CC BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Source French: alignment_manual_copy.xml; Target English: target_translation.xml</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Multi-level standoff alignment linking source historical French transcription to target modern English translation.</p>
+    </body>
+  </text>
+  <standOff>
+    <!-- ======================================================== -->
+    <!-- LEVEL 1: SENTENCE ALIGNMENT (<s>)                         -->
+    <!-- ======================================================== -->
+    <linkGrp type="sentence-alignment" resp="#editor">
+      <link target="#s1 #t1"/>
+      <link target="#s2 #t2"/>
+      <link target="#s3 #t3"/>
+      <link target="#s4 #t4"/>
+      <link target="#s5 #t5"/>
+      <link target="#s6 #t6"/>
+      <link target="#s7 #t7"/>
+    </linkGrp>
+
+    
+
+    <!-- ======================================================== -->
+    <!-- LEVEL 3: WORD / TOKEN ALIGNMENT (<w>)                     -->
+    <!-- ======================================================== -->
+    <linkGrp type="word-alignment" resp="#editor">
+      <!-- s1 <-> t1 -->
+      <link target="#s1-w1 #w1"/>
+      <link target="#s1-w2 #w2"/>
+      <link target="#s1-w3 #w4"/>
+      <link target="#s1-w4 #w3"/>
+
+      <!-- s2 <-> t2 -->
+      <link target="#s2-w1 #w5"/>
+      <link target="#s2-w2 #w6"/>
+      <link target="#s2-w3 #w7"/>
+
+      <!-- s3 <-> t3 -->
+      <link target="#s3-w1 #w8"/>
+      <link target="#s3-w2 #w9"/>
+      <link target="#s3-w3 #w10"/>
+      <link target="#s3-w4 #w11"/>
+      <link target="#s3-w5 #w12"/>
+      <link target="#s3-w6 #w13"/>
+      <link target="#s3-w7 #w15"/>
+      <link target="#s3-w8 #w14"/>
+      <link target="#s3-w9 #w16"/>
+      <link target="#s3-w10 #w17"/>
+      <link target="#s3-w11 #w20"/>
+      <link target="#s3-w12 #w18"/>
+      <link target="#s3-w13 #w21"/>
+      <link target="#s3-w14 #w22"/>
+      <link target="#s3-w15 #w23"/>
+      <link target="#s3-w16 #w24"/>
+      <link target="#s3-w17 #w25"/>
+      <link target="#s3-w18 #w26"/>
+      <link target="#s3-w19 #w26"/>
+      <link target="#s3-w20 #w27"/>
+      <link target="#s3-w21 #w28"/>
+      <link target="#s3-w22 #w29"/>
+      <link target="#s3-w23 #w30"/>
+      <link target="#s3-w24 #w31"/>
+      <link target="#s3-w25 #w32"/>
+      <link target="#s3-w26 #w33"/>
+      <link target="#s3-w27 #w34"/>
+
+      <!-- s4 <-> t4 -->
+      <link target="#s4-w1 #w35"/>
+      <link target="#s4-w2 #w36"/>
+      <link target="#s4-w3 #w42"/>
+      <link target="#s4-w4 #w37"/>
+      <link target="#s4-w5 #w38"/>
+      <link target="#s4-w6 #w39"/>
+      <link target="#s4-w7 #w42"/>
+      <link target="#s4-w8 #w40"/>
+      <link target="#s4-w9 #w41"/>
+      <link target="#s4-w10 #w43"/>
+      <link target="#s4-w11 #w44"/>
+      <link target="#s4-w12 #w44"/>
+      <link target="#s4-w13 #w45"/>
+
+      <!-- s5 <-> t5 -->
+      <link target="#s5-w1 #w46"/>
+      <link target="#s5-w2 #w47"/>
+      <link target="#s5-w3 #w48 #w49"/>
+      <link target="#s5-w4 #w50"/>
+      <link target="#s5-w5 #w51"/>
+      <link target="#s5-w6 #w52"/>
+      <link target="#s5-w7 #w53"/>
+      <link target="#s5-w8 #w55"/>
+      <link target="#s5-w9 #w52"/>
+      <link target="#s5-w10 #w53"/>
+      <link target="#s5-w11 #w54"/>
+      <link target="#s5-w12 #w56"/>
+      <link target="#s5-w13 #w57"/>
+      <link target="#s5-w14 #w58"/>
+      <link target="#s5-w15 #w59"/>
+      <link target="#s5-w16 #w60"/>
+      <link target="#s5-w17 #w61"/>
+      <link target="#s5-w18 #w62"/>
+      <link target="#s5-w19 #w63"/>
+      <link target="#s5-w20 #w63"/>
+      <link target="#s5-w21 #w64"/>
+      <link target="#s5-w22 #w65"/>
+      <link target="#s5-w23 #w66"/>
+      <link target="#s5-w24 #w67"/>
+      <link target="#s5-w25 #w68"/>
+      <link target="#s5-w26 #w69"/>
+      <link target="#s5-w27 #w70"/>
+      <link target="#s5-w28 #w71"/>
+      <link target="#s5-w29 #w72 #w73"/>
+      <link target="#s5-w30 #w74"/>
+      <link target="#s5-w31 #w75"/>
+      <link target="#s5-w32 #w76"/>
+      <link target="#s5-w33 #w77"/>
+
+      <!-- s6 <-> t6 -->
+      <link target="#s6-w12 #w78"/>
+      <link target="#s6-w13 #w79"/>
+      <link target="#s6-w14 #w80"/>
+      <link target="#s6-w15 #w82"/>
+      <link target="#s6-w16 #w81"/>
+      <link target="#s6-w17 #w83"/>
+      <link target="#s6-w18 #w84"/>
+      <link target="#s6-w19 #w85"/>
+      <link target="#s6-w20 #w85"/>
+      <link target="#s6-w21 #w86"/>
+      <link target="#s6-w22 #w87 #w88"/>
+      <link target="#s6-w23 #w89"/>
+      <link target="#s6-w24 #w90"/>
+      <link target="#s6-w25 #w91 #w92"/>
+      <link target="#s6-w26 #w93"/>
+      <link target="#s6-w27 #w94"/>
+      <link target="#s6-w28 #w95"/>
+      <link target="#s6-w29 #w96"/>
+      <link target="#s6-w30 #w96"/>
+      <link target="#s6-w31 #w97"/>
+      <link target="#s6-w32 #w98"/>
+      <link target="#s6-w33 #w99"/>
+      <link target="#s6-w34 #w100"/>
+      <link target="#s6-w35 #w101"/>
+      <link target="#s6-w36 #w102"/>
+      <link target="#s6-w37 #w103"/>
+      <link target="#s6-w38 #w104"/>
+      <link target="#s6-w39 #w105"/>
+      <link target="#s6-w40 #w106"/>
+      <link target="#s6-w41 #w106"/>
+      <link target="#s6-w42 #w107"/>
+      <link target="#s6-w43 #w108"/>
+      <link target="#s6-w44 #w108"/>
+      <link target="#s6-w45 #w109"/>
+      <link target="#s6-w46 #w110"/>
+      <link target="#s6-w47 #w111"/>
+      <link target="#s6-w48 #w112"/>
+      <link target="#s6-w49 #w113"/>
+      <link target="#s6-w50 #w114"/>
+      <link target="#s6-w51 #w115"/>
+      <link target="#s6-w52 #w116"/>
+      <link target="#s6-w53 #w117"/>
+      <link target="#s6-w54 #w119"/>
+      <link target="#s6-w55 #w120"/>
+      <link target="#s6-w56 #w121"/>
+      <link target="#s6-w57 #w122"/>
+      <link target="#s6-w58 #w123"/>
+      <link target="#s6-w59 #w124"/>
+      <link target="#s6-w60 #w125"/>
+      <link target="#s6-w61 #w126"/>
+      <link target="#s6-w62 #w126"/>
+      <link target="#s6-w63 #w127"/>
+      <link target="#s6-w64 #w128"/>
+      <link target="#s6-w65 #w129"/>
+      <link target="#s6-w66 #w129"/>
+      <link target="#s6-w67 #w131"/>
+      <link target="#s6-w68 #w130"/>
+
+      <!-- s7 <-> t7 -->
+      <link target="#s7-w1 #w132"/>
+      <link target="#s7-w2 #w133"/>
+      <link target="#s7-w3 #w134"/>
+      <link target="#s7-w4 #w135"/>
+      <link target="#s7-w5 #w136"/>
+      <link target="#s7-w6 #w137"/>
+      <link target="#s7-w7 #w138"/>
+      <link target="#s7-w8 #w139"/>
+      <link target="#s7-w9 #w140"/>
+      <link target="#s7-w10 #w141"/>
+      <link target="#s7-w11 #w144"/>
+      <link target="#s7-w12 #w142"/>
+      <link target="#s7-w13 #w145"/>
+      <link target="#s7-w14 #w146"/>
+      <link target="#s7-w15 #w147"/>
+      <link target="#s7-w16 #w147"/>
+      <link target="#s7-w17 #w148"/>
+      <link target="#s7-w18 #w150"/>
+      <link target="#s7-w19 #w151"/>
+      <link target="#s7-w20 #w152"/>
+      <link target="#s7-w21 #w153 #w154"/>
+      <link target="#s7-w22 #w155"/>
+      <link target="#s7-w23 #w156"/>
+      <link target="#s7-w24 #w157"/>
+      <link target="#s7-w25 #w158"/>
+      <link target="#s7-w26 #w159"/>
+      <link target="#s7-w27 #w160 #w161"/>
+      <link target="#s7-w28 #w162 #w163"/>
+      <link target="#s7-w29 #w164"/>
+      <link target="#s7-w30 #w165"/>
+      <link target="#s7-w31 #w166 #w167"/>
+      <link target="#s7-w32 #w166"/>
+      <link target="#s7-w33 #w168"/>
+      <link target="#s7-w34 #w168"/>
+      <link target="#s7-w35 #w169"/>
+      <link target="#s7-w36 #w170"/>
+      <link target="#s7-w37 #w171"/>
+    </linkGrp>
+  </standOff>
+</TEI>

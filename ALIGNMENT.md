@@ -36,4 +36,10 @@
 
 ---
 
+### Reflection
 
+Aligning early modern diplomatic French with a contemporary English translation exposes fundamental differences between automated machine pairing and human philological curation. Automated sequence models rely heavily on sentence length, lexical frequency, and standard terminal punctuation. When alignment is strictly one-to-one, automated tools perform reliably across declarative units like heading and date designations (`s1`, `s2`) or balanced complex periods (`s3`–`s5`). However, significant divergences emerge when historical texts deviate from rigid parallel structures.
+
+In sentence `s6`, the English translator omitted Louis XVI’s introductory diplomatic hedge (*"je ne peux pas croire encore que ses dispositions soient changées"*), jumping directly to the declarative complement (*"I like to persuade myself..."*). While an automated system struggled with the asymmetric length and flagged a partial alignment defect, human curation recognizes rhetorical condensation and maintains the sentence-level bond to preserve discursive context. 
+
+More crucially, the automated model failed when handling textual truncation. Because the target translation file concludes at sentence `t7`, the AI attempted to force the remaining source sentences (`s8`–`s10`)—detailing the Brabant troop movements, the peace appeal, and the royal ultimatum—into the final available target block. Human oversight correctly recognized that the source document continues beyond the target translation, establishing unaligned null values rather than introducing false linkages. Manual alignment paired with structured standoff markup thus ensures that linguistic omissions and asymmetrical manuscript boundaries are accurately represented without distorting historical translation data.

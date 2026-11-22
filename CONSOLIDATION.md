@@ -37,8 +37,6 @@ PASS: transcritption_reconciled_AI.xml
 PASS: transcritpton_ai.xml
 ```
 
-*(Note: In `Witness.xml`, the attribute value `xml:id="Front page"` was fixed to valid NCName syntax `xml:id="Front_page"` to pass strict XML 1.0 schema validity).*
-
 ---
 
 ## 3. Conflict Resolution Note

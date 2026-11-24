@@ -1,0 +1,50 @@
+.tei-body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.1em;
+  line-height: 1.7;
+  color: #111;
+  background-color: #fdfbf7;
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 750px;
+}
+
+/* Paragraph styling */
+p {
+  margin-bottom: 1.25em;
+  text-align: justify;
+}
+
+/* Reading view: hide original forms and abbreviations */
+.tei-orig,
+orig {
+  display: none;
+}
+
+.tei-abbr,
+abbr {
+  display: none;
+}
+
+/* Reading view: show regularized/modern forms and expansions */
+.tei-reg,
+reg {
+  display: inline;
+}
+
+.tei-expan,
+expan {
+  display: inline;
+}
+
+/* Reading view: line breaks flow normally as spaces */
+.tei-lb,
+lb {
+  display: inline;
+}
+
+.tei-lb::before,
+lb::before {
+  content: " ";
+}
+

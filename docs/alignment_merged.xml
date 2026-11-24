@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Merged Translation Alignment: Louis XVI's Letter to the Assemblée Nationale (31 December 1791)</title>
+        <author key="Louis_XVI">Louis XVI, King of France (1754–1793)</author>
+        <editor>Ace Long</editor>
+      </titleStmt>  
+      <publicationStmt>
+        <publisher>St. Francis Xavier University</publisher>
+        <pubPlace>Antigonish, Nova Scotia</pubPlace>
+        <date when="2026-11-22">2026-11-22</date>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Distributed under CC BY 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<pb n="1" facs="#Front_page"/>
+      <p>
+        <s xml:id="s1">
+        <w xml:id="s1-w1" lemma="à" pos="ADP"><choice><orig>a</orig><reg>À</reg></choice></w>
+        <w xml:id="s1-w2" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">l'</w>
+        <w xml:id="s1-w3" lemma="assemblée" pos="NOUN" msd="Gender=Fem|Number=Sing">Assemblée</w>
+        <w xml:id="s1-w4" lemma="national" pos="ADJ" msd="Gender=Fem|Number=Sing">Nationale</w>
+          <pc pos="PUNCT">.</pc>
+        </s>
+        </p>
+        
+      <p>
+        <s xml:id="s2">
+        <date when="1791-12-31">
+          <w xml:id="s2-w1" lemma="31" pos="NUM" msd="NumType=Card">31</w>
+          <w xml:id="s2-w2" lemma="décembre" pos="NOUN" msd="Gender=Masc|Number=Sing"><choice><abbr>xbre</abbr><expan>décembre</expan></choice></w>
+          <w xml:id="s2-w3" lemma="1791" pos="NUM" msd="NumType=Card">1791</w>
+        </date>
+        </s>
+      </p>
+
+      <p>
+        <s xml:id="s3">
+        <w xml:id="s3-w1" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">J'</w><w xml:id="s3-w2" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
+        <w xml:id="s3-w3" lemma="charger" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"><choice><orig>charge</orig><reg resp="#gemini">chargé</reg></choice></w>
+        <w xml:id="s3-w4" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+        <w xml:id="s3-w5" lemma="ministre" pos="NOUN" msd="Gender=Masc|Number=Sing">Ministre</w>
+        <w xml:id="s3-w6" lemma="de" pos="ADP" msd="Definite=Def|Gender=Fem|Number=Plur|PronType=Art">des</w>
+        <w xml:id="s3-w7" lemma="affaire" pos="NOUN" msd="Gender=Fem|Number=Plur">affaires</w>
+        <w xml:id="s3-w8" lemma="étranger" pos="ADJ" msd="Gender=Fem|Number=Plur"><choice><orig>etrangeres</orig><reg resp="#gemini">étrangères</reg></choice></w><pc pos="PUNCT">,</pc>
+        <w xml:id="s3-w9" lemma="messieurs" pos="NOUN" msd="Gender=Masc|Number=Plur"><choice><abbr>MM</abbr><expan resp="#gemini">Messieurs</expan></choice></w><pc pos="PUNCT">,</pc>
+        <w xml:id="s3-w10" lemma="de" pos="ADP">de</w>
+        <w xml:id="s3-w11" lemma="vous" pos="PRON" msd="Number=Plur|Person=2|PronType=Prs">vous</w>
+        <w xml:id="s3-w12" lemma="communiquer" pos="VERB" msd="VerbForm=Inf">communiquer</w>
+        <lb n="4"/>
+        <w xml:id="s3-w13" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w xml:id="s3-w14" lemma="office" pos="NOUN" msd="Gender=Masc|Number=Sing">office</w>
+        <w xml:id="s3-w15" lemma="que" pos="PRON" msd="PronType=Rel">que</w>
+        <w xml:id="s3-w16" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w xml:id="s3-w17" lemma="Empereur" pos="PROPN" msd="Gender=Masc|Number=Sing">Empereur</w>
+        <w xml:id="s3-w18" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+        <w xml:id="s3-w19" lemma="faire" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">fait</w>
+        <w xml:id="s3-w20" lemma="remettre" pos="VERB" msd="VerbForm=Inf">remettre</w>
+        <w xml:id="s3-w21" lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
+        <w xml:id="s3-w22" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w xml:id="s3-w23" lemma="ambassadeur" pos="NOUN" msd="Gender=Masc|Number=Sing">ambassadeur</w>
+        <w xml:id="s3-w24" lemma="de" pos="ADP">de</w>
+        <w xml:id="s3-w25" lemma="France" pos="PROPN" msd="Gender=Fem|Number=Sing">France</w>
+        <w xml:id="s3-w26" lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
+        <lb n="5"/>
+        <w xml:id="s3-w27" lemma="Vienne" pos="PROPN" msd="Gender=Fem|Number=Sing">Vienne</w><pc pos="PUNCT">.</pc>
+       </s>
+
+       <s xml:id="s4">
+        <w xml:id="s4-w1" lemma="ce" pos="DET" msd="Gender=Masc|Number=Sing|PronType=Dem">Cet</w>
+        <w xml:id="s4-w2" lemma="office" pos="NOUN" msd="Gender=Masc|Number=Sing">office</w>
+        <w xml:id="s4-w3" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w xml:id="s4-w4" lemma="devoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">dois</w>
+        <w xml:id="s4-w5" lemma="le" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">le</w>
+        <w xml:id="s4-w6" lemma="dire" pos="VERB" msd="VerbForm=Inf">dire</w><pc pos="PUNCT">,</pc>
+        <w xml:id="s4-w7" lemma="me" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">m'</w><w xml:id="s4-w8" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+        <w xml:id="s4-w9" lemma="causer" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"><choice><orig>cause</orig><reg resp="#gemini">causé</reg></choice></w>
+        <w xml:id="s4-w10" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+        <w xml:id="s4-w11" lemma="plus" pos="ADV">plus</w>
+        <w xml:id="s4-w12" lemma="grand" pos="ADJ" msd="Gender=Masc|Number=Sing">grand</w>
+        <w xml:id="s4-w13" lemma="étonnement" pos="NOUN" msd="Gender=Masc|Number=Sing"><choice><orig>etonnement</orig><reg resp="#gemini">étonnement</reg></choice></w><pc pos="PUNCT">.</pc>
+       </s>
+       
+       <s xml:id="s5">
+        <w xml:id="s5-w1" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">J'</w><w xml:id="s5-w2" lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin"><choice><orig>avois</orig><reg resp="#gemini">avais</reg></choice></w>
+        <w xml:id="s5-w3" lemma="droit" pos="NOUN" msd="Gender=Masc|Number=Sing">droit</w>
+        <w xml:id="s5-w4" lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
+        <w xml:id="s5-w5" lemma="compter" pos="VERB" msd="VerbForm=Inf">compter</w>
+        <w xml:id="s5-w6" lemma="sur" pos="ADP">sur</w>
+        <w xml:id="s5-w7" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Plur|PronType=Art">les</w>
+        <w xml:id="s5-w8" lemma="sentiment" pos="NOUN" msd="Gender=Masc|Number=Plur"><choice><orig>sentimens</orig><reg resp="#gemini">sentiments</reg></choice></w>
+        <w xml:id="s5-w9" lemma="de" pos="ADP">de</w>
+        <w xml:id="s5-w10" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w xml:id="s5-w11" lemma="Empereur" pos="PROPN" msd="Gender=Masc|Number=Sing">Empereur</w>
+        <w xml:id="s5-w12" lemma="et" pos="CCONJ">et</w>
+        <w xml:id="s5-w13" lemma="sur" pos="ADP">sur</w>
+        <w xml:id="s5-w14" lemma="son" pos="DET" msd="Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs">son</w>
+        <w xml:id="s5-w15" lemma="désir" pos="NOUN" msd="Gender=Masc|Number=Sing">desir</w>
+        <w xml:id="s5-w16" lemma="de" pos="ADP">de</w>
+        <w xml:id="s5-w17" lemma="conserver" pos="VERB" msd="VerbForm=Inf">conserver</w>
+        <w xml:id="s5-w18" lemma="avec" pos="ADP">avec</w>
+        <w xml:id="s5-w19" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w xml:id="s5-w20" lemma="France" pos="PROPN" msd="Gender=Fem|Number=Sing">France</w>
+        <w xml:id="s5-w21" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w xml:id="s5-w22" lemma="bon" pos="ADJ" msd="Gender=Fem|Number=Sing">bonne</w>
+        <w xml:id="s5-w23" lemma="intelligence" pos="NOUN" msd="Gender=Fem|Number=Sing">intelligence</w>
+        <w xml:id="s5-w24" lemma="et" pos="CCONJ">et</w>
+        <w xml:id="s5-w25" lemma="tout" pos="ADJ" msd="Gender=Masc|Number=Plur">tous</w>
+        <w xml:id="s5-w26" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Plur|PronType=Art">les</w>
+        <w xml:id="s5-w27" lemma="rapport" pos="NOUN" msd="Gender=Masc|Number=Plur">rapports</w><pc pos="PUNCT">,</pc>
+        <w xml:id="s5-w28" lemma="qui" pos="PRON" msd="PronType=Rel">qui</w>
+        <w xml:id="s5-w29" lemma="devoir" pos="VERB" msd="Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin">doivent</w>
+        <w xml:id="s5-w30" lemma="régner" pos="VERB" msd="VerbForm=Inf"><choice><orig>regner</orig><reg>régner</reg></choice></w>
+        <w xml:id="s5-w31" lemma="entre" pos="ADP">entre</w>
+        <w xml:id="s5-w32" lemma="deux" pos="NUM" msd="NumType=Card">deux</w>
+        <w xml:id="s5-w33" lemma="allié" pos="NOUN" msd="Gender=Masc|Number=Plur"><choice><orig>allies</orig><reg>alliés</reg></choice></w><pc pos="PUNCT">.</pc>
+       </s>
+
+       <s xml:id="s6">
+        <w xml:id="s6-w1" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w xml:id="s6-w2" lemma="ne" pos="ADV" msd="Polarity=Neg">ne</w>
+        <w xml:id="s6-w3" lemma="pouvoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">peux</w>
+        <w xml:id="s6-w4" lemma="pas" pos="ADV" msd="Polarity=Neg">pas</w>
+        <w xml:id="s6-w5" lemma="croire" pos="VERB" msd="VerbForm=Inf">croire</w>
+        <w xml:id="s6-w6" lemma="encore" pos="ADV">encore</w>
+        <w xml:id="s6-w7" lemma="que" pos="SCONJ">que</w>
+        <w xml:id="s6-w8" lemma="son" pos="DET" msd="Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs">ses</w>
+        <w xml:id="s6-w9" lemma="disposition" pos="NOUN" msd="Gender=Fem|Number=Plur">dispositions</w>
+        <w xml:id="s6-w10" lemma="être" pos="AUX" msd="Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin">soient</w>
+        <w xml:id="s6-w11" lemma="changer" pos="VERB" msd="Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part">changées</w><pc pos="PUNCT">,</pc>
+        <w xml:id="s6-w12" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">j'</w><w xml:id="s6-w13" lemma="aimer" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">aime</w>
+        <w xml:id="s6-w14" lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
+        <w xml:id="s6-w15" lemma="me" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs|Reflex=Yes">me</w>
+        <w xml:id="s6-w16" lemma="persuader" pos="VERB" msd="VerbForm=Inf">persuader</w>
+        <w xml:id="s6-w17" lemma="que" pos="SCONJ">qu'</w><w xml:id="s6-w18" lemma="il" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">il</w>
+        <w xml:id="s6-w19" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+        <w xml:id="s6-w20" lemma="être" pos="AUX" msd="Tense=Past|VerbForm=Part"><choice><orig>ete</orig><reg>été</reg></choice></w>
+        <w xml:id="s6-w21" lemma="tromper" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"><choice><orig>trompe</orig><reg>trompé</reg></choice></w>
+        <w xml:id="s6-w22" lemma="sur" pos="ADP">sur</w>
+        <w xml:id="s6-w23" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w xml:id="s6-w24" lemma="vérité" pos="NOUN" msd="Gender=Fem|Number=Sing"><choice><orig>verite</orig><reg>vérité</reg></choice></w>
+        <w xml:id="s6-w25" lemma="de" pos="ADP" msd="Definite=Def|Gender=Masc|Number=Plur|PronType=Art">des</w>
+        <w xml:id="s6-w26" lemma="fait" pos="NOUN" msd="Gender=Masc|Number=Plur">faits</w><pc pos="PUNCT">,</pc>
+        <w xml:id="s6-w27" lemma="que" pos="SCONJ">qu'</w><w xml:id="s6-w28" lemma="il" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">il</w>
+        <w xml:id="s6-w29" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+        <w xml:id="s6-w30" lemma="savoir" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">au</w>
+        <w xml:id="s6-w31" lemma="que" pos="SCONJ">que</w>
+        <w xml:id="s6-w32" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w xml:id="s6-w33" lemma="électeur" pos="NOUN" msd="Gender=Masc|Number=Sing">Electeur</w>
+        <w xml:id="s6-w34" lemma="de" pos="ADP">de</w>
+        <w xml:id="s6-w35" lemma="Trèves" pos="PROPN" msd="Number=Sing"><choice><orig>Treves</orig><reg resp="#gemini">Trèves</reg></choice></w>
+        <w xml:id="s6-w36" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin"><choice><orig>avoit</orig><reg resp="#gemini">avait</reg></choice></w>
+        <w xml:id="s6-w37" lemma="satisfaire" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part">satisfait</w>
+        <w xml:id="s6-w38" lemma="à" pos="ADP" msd="Definite=Def|Gender=Masc|Number=Plur|PronType=Art">aux</w>
+        <w xml:id="s6-w39" lemma="devoir" pos="NOUN" msd="Gender=Masc|Number=Plur">devoirs</w>
+        <w xml:id="s6-w40" lemma="de" pos="ADP">de</w>
+        <w xml:id="s6-w41" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w xml:id="s6-w42" lemma="justice" pos="NOUN" msd="Gender=Fem|Number=Sing">justice</w>
+        <w xml:id="s6-w43" lemma="et" pos="CCONJ">et</w>
+        <w xml:id="s6-w44" lemma="de" pos="ADP" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">du</w>
+        <w xml:id="s6-w45" lemma="bon" pos="ADJ" msd="Gender=Masc|Number=Sing">bon</w>
+        <w xml:id="s6-w46" lemma="voisinage" pos="NOUN" msd="Gender=Masc|Number=Sing">voisinage</w><pc pos="PUNCT">.</pc>
+        <w xml:id="s6-w47" lemma="et" pos="CCONJ">et</w>
+        <w xml:id="s6-w48" lemma="que" pos="SCONJ">que</w>
+        <w xml:id="s6-w49" lemma="néanmoins" pos="ADV"><choice><orig>neantmoins</orig><reg>néanmoins</reg></choice></w>
+        <w xml:id="s6-w50" lemma="ce" pos="DET" msd="Gender=Masc|Number=Sing|PronType=Dem">ce</w>
+        <w xml:id="s6-w51" lemma="prince" pos="NOUN" msd="Gender=Masc|Number=Sing">prince</w>
+        <w xml:id="s6-w52" lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin"><choice><orig>avoit</orig><reg>avait</reg></choice></w>
+        <w xml:id="s6-w53" lemma="à" pos="ADP"><choice><orig>a</orig><reg>à</reg></choice></w>
+        <w xml:id="s6-w54" lemma="craindre" pos="VERB" msd="VerbForm=Inf">craindre</w>
+        <w xml:id="s6-w55" lemma="que" pos="SCONJ">que</w>
+        <w xml:id="s6-w56" lemma="son" pos="DET" msd="Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs">ses</w>
+        <w xml:id="s6-w57" lemma="état" pos="NOUN" msd="Gender=Masc|Number=Plur">états</w>
+        <w xml:id="s6-w58" lemma="ne" pos="ADV" msd="Polarity=Neg">ne</w>
+        <w xml:id="s6-w59" lemma="être" pos="AUX" msd="Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin">fussent</w>
+        <w xml:id="s6-w60" lemma="exposer" pos="VERB" msd="Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part">exposés</w>
+        <w xml:id="s6-w61" lemma="à" pos="ADP"><choice><orig>a</orig><reg>à</reg></choice></w>
+        <w xml:id="s6-w62" lemma="un" pos="DET" msd="Definite=Ind|Gender=Fem|Number=Plur|PronType=Art">des</w>
+        <w xml:id="s6-w63" lemma="violence" pos="NOUN" msd="Gender=Fem|Number=Plur">violences</w>
+        <w xml:id="s6-w64" lemma="ou" pos="CCONJ">ou</w>
+        <w xml:id="s6-w65" lemma="à" pos="ADP"><choice><orig>a</orig><reg>à</reg></choice></w>
+        <w xml:id="s6-w66" lemma="un" pos="DET" msd="Definite=Ind|Gender=Fem|Number=Plur|PronType=Art">des</w>
+        <lb n="14"/>
+        <w xml:id="s6-w67" lemma="incursion" pos="NOUN" msd="Gender=Fem|Number=Plur">incursions</w>
+        <w xml:id="s6-w68" lemma="particulier" pos="ADJ" msd="Gender=Fem|Number=Plur"><choice><orig>particulieres</orig><reg>particulières</reg></choice></w><pc pos="PUNCT">.</pc>
+       </s>
+      </p>
+
+      <p>
+  <s xml:id="s7">
+        <w xml:id="s7-w1" lemma="dans" pos="ADP">Dans</w>
+        <w xml:id="s7-w2" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w xml:id="s7-w3" lemma="réponse" pos="NOUN" msd="Gender=Fem|Number=Sing"><choice><orig>reponse</orig><reg resp="#gemini">réponse</reg></choice></w>
+        <w xml:id="s7-w4" lemma="que" pos="PRON" msd="PronType=Rel">que</w>
+        <w xml:id="s7-w5" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w xml:id="s7-w6" lemma="faire" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">fais</w>
+        <w xml:id="s7-w7" lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
+        <w xml:id="s7-w8" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w xml:id="s7-w9" lemma="Empereur" pos="PROPN" msd="Gender=Masc|Number=Sing">Empereur</w><pc pos="PUNCT">,</pc>
+        <w xml:id="s7-w10" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w xml:id="s7-w11" lemma="lui" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">lui</w>
+        <w xml:id="s7-w12" lemma="répéter" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"><choice><orig>repete</orig><reg resp="#gemini">répète</reg></choice></w>
+        <w xml:id="s7-w13" lemma="que" pos="SCONJ">que</w>
+        <w xml:id="s7-w14" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w xml:id="s7-w15" lemma="ne" pos="ADV" msd="Polarity=Neg">n'</w><w xml:id="s7-w16" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
+        <w xml:id="s7-w17" lemma="rien" pos="PRON" msd="Gender=Masc|Number=Sing|PronType=Neg">rien</w>
+        <w xml:id="s7-w18" lemma="demander" pos="VERB" msd="Tense=Past|VerbForm=Part">demander</w>
+        <w xml:id="s7-w19" lemma="que" pos="ADV">que</w>
+        <w xml:id="s7-w20" lemma="de" pos="ADP">de</w>
+        <w xml:id="s7-w21" lemma="juste" pos="ADJ" msd="Gender=Masc|Number=Sing">juste</w>
+        <w xml:id="s7-w22" lemma="à" pos="ADP">a</w>
+        <w xml:id="s7-w23" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w xml:id="s7-w24" lemma="électeur" pos="NOUN" msd="Gender=Masc|Number=Sing">Electeur</w>
+        <w xml:id="s7-w25" lemma="de" pos="ADP">de</w>
+        <w xml:id="s7-w26" lemma="Trèves" pos="PROPN" msd="Number=Sing"><choice><orig>Treves</orig><reg resp="#gemini">Trèves</reg></choice></w><pc pos="PUNCT">,</pc>
+        <w xml:id="s7-w27" lemma="rien" pos="PRON" msd="Gender=Masc|Number=Sing|PronType=Neg">rien</w>
+        <w xml:id="s7-w28" lemma="dont" pos="PRON" msd="PronType=Rel">dont</w>
+        <w xml:id="s7-w29" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w>
+        <w xml:id="s7-w30" lemma="Empereur" pos="PROPN" msd="Gender=Masc|Number=Sing">Empereur</w>
+        <w xml:id="s7-w31" lemma="ne" pos="ADV" msd="Polarity=Neg">n'</w><w xml:id="s7-w32" lemma="avoir" pos="AUX" msd="Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin">eut</w>
+        <w xml:id="s7-w33" lemma="lui" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">lui</w>
+        <w xml:id="s7-w34" lemma="même" pos="ADV"><choice><orig>meme</orig><reg>même</reg></choice></w>
+        <w xml:id="s7-w35" lemma="donner" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"><choice><orig>donne</orig><reg>donné</reg></choice></w>
+        <w xml:id="s7-w36" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w>
+        <w xml:id="s7-w37" lemma="exemple" pos="NOUN" msd="Gender=Masc|Number=Sing">exemple</w><pc pos="PUNCT">.</pc>
+        </s>
+
+        <s xml:id="s8">
+        <w xml:id="s8-w1" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w xml:id="s8-w2" lemma="lui" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">lui</w>
+        <w xml:id="s8-w3" lemma="rappeler" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">rappelle</w>
+        <w xml:id="s8-w4" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+        <lb n="18"/>
+        <w xml:id="s8-w5" lemma="soin" pos="NOUN" msd="Gender=Masc|Number=Sing">soin</w>
+        <w xml:id="s8-w6" lemma="que" pos="PRON" msd="PronType=Rel">que</w>
+        <w xml:id="s8-w7" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w xml:id="s8-w8" lemma="nation" pos="NOUN" msd="Gender=Fem|Number=Sing">Nation</w>
+        <w xml:id="s8-w9" lemma="français" pos="ADJ" msd="Gender=Fem|Number=Sing"><choice><orig>Françoise</orig><reg>Française</reg></choice></w>
+        <w xml:id="s8-w10" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+        <w xml:id="s8-w11" lemma="prendre" pos="VERB" msd="Gender=Masc|Tense=Past|VerbForm=Part">pris</w>
+        <w xml:id="s8-w12" lemma="de" pos="ADP">de</w>
+        <w xml:id="s8-w13" lemma="prévenir" pos="VERB" msd="VerbForm=Inf"><choice><orig>prevenir</orig><reg>prévenir</reg></choice></w>
+        <w xml:id="s8-w14" lemma="sur" pos="ADP">sur</w>
+        <w xml:id="s8-w15" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+        <w xml:id="s8-w16" lemma="change" pos="NOUN" msd="Gender=Masc|Number=Sing">change</w>
+        <lb n="19"/>
+        <w xml:id="s8-w17" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Plur|PronType=Art">les</w>
+        <w xml:id="s8-w18" lemma="rassemblement" pos="NOUN" msd="Gender=Masc|Number=Plur"><choice><orig>rassemblemens</orig><reg resp="#gemini">rassemblements</reg></choice></w>
+        <w xml:id="s8-w19" lemma="de" pos="ADP">de</w>
+        <w xml:id="s8-w20" lemma="Brabançon" pos="NOUN" msd="Gender=Masc|Number=Plur">Brabançons</w>
+        <w xml:id="s8-w21" lemma="qui" pos="PRON" msd="PronType=Rel">qui</w>
+        <w xml:id="s8-w22" lemma="paraître" pos="VERB" msd="Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin"><choice><orig>paroissoient</orig><reg resp="#gemini">paraissaient</reg></choice></w>
+        <w xml:id="s8-w23" lemma="vouloir" pos="VERB" msd="VerbForm=Inf">vouloir</w>
+        <w xml:id="s8-w24" lemma="se" pos="PRON" msd="Person=3|PronType=Prs|Reflex=Yes">se</w>
+        <w xml:id="s8-w25" lemma="former" pos="VERB" msd="VerbForm=Inf">former</w>
+        <lb n="20"/>
+        <w xml:id="s8-w26" lemma="dans" pos="ADP">dans</w>
+        <w xml:id="s8-w27" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+        <w xml:id="s8-w28" lemma="voisinage" pos="NOUN" msd="Gender=Masc|Number=Sing">voisinage</w>
+        <w xml:id="s8-w29" lemma="de" pos="ADP" msd="Definite=Def|Gender=Masc|Number=Plur|PronType=Art">des</w>
+        <w xml:id="s8-w30" lemma="Pays" pos="PROPN" msd="Gender=Masc|Number=Plur">Pays</w><pc pos="PUNCT">-</pc><w xml:id="s8-w31" lemma="Bas" pos="PROPN" msd="Gender=Masc|Number=Plur">Bas</w>
+        <w xml:id="s8-w32" lemma="autrichien" pos="ADJ" msd="Gender=Masc|Number=Plur">autrichiens</w><pc pos="PUNCT">.</pc>
+        </s>
+
+        <s xml:id="s9">
+        <w xml:id="s9-w1" lemma="enfin" pos="ADV">Enfin</w>
+        <w xml:id="s9-w2" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w xml:id="s9-w3" lemma="lui" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">lui</w>
+        <w xml:id="s9-w4" lemma="renouveler" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">renouvelle</w>
+        <lb n="21"/>
+        <w xml:id="s9-w5" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">le</w>
+        <w xml:id="s9-w6" lemma="vœu" pos="NOUN" msd="Gender=Masc|Number=Sing">vœu</w>
+        <w xml:id="s9-w7" lemma="de" pos="ADP">de</w>
+        <w xml:id="s9-w8" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w xml:id="s9-w9" lemma="France" pos="PROPN" msd="Gender=Fem|Number=Sing">France</w>
+        <w xml:id="s9-w10" lemma="pour" pos="ADP">pour</w>
+        <w xml:id="s9-w11" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w xml:id="s9-w12" lemma="conservation" pos="NOUN" msd="Gender=Fem|Number=Sing">conservation</w>
+        <w xml:id="s9-w13" lemma="de" pos="ADP">de</w>
+        <w xml:id="s9-w14" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">la</w>
+        <w xml:id="s9-w15" lemma="paix" pos="NOUN" msd="Gender=Fem|Number=Sing">paix</w><pc pos="PUNCT">.</pc>
+        </s>
+
+        <s xml:id="s10">
+        <w xml:id="s10-w1" lemma="mais" pos="CCONJ">mais</w>
+        <w xml:id="s10-w2" lemma="en" pos="ADP">en</w>
+        <lb n="22"/>
+        <w xml:id="s10-w3" lemma="même" pos="ADJ" msd="Gender=Masc|Number=Sing"><choice><orig>meme</orig><reg>même</reg></choice></w>
+        <w xml:id="s10-w4" lemma="temps" pos="NOUN" msd="Gender=Masc|Number=Sing">temps</w><pc pos="PUNCT">,</pc>
+        <w xml:id="s10-w5" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">je</w>
+        <w xml:id="s10-w6" lemma="lui" pos="PRON" msd="Gender=Masc|Number=Sing|Person=3|PronType=Prs">lui</w>
+        <w xml:id="s10-w7" lemma="déclarer" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin"><choice><orig>declare</orig><reg>déclare</reg></choice></w>
+        <w xml:id="s10-w8" lemma="que" pos="SCONJ">que</w>
+        <w xml:id="s10-w9" lemma="si" pos="SCONJ">si</w>
+        <w xml:id="s10-w10" lemma="à" pos="ADP"><choice><orig>a</orig><reg>à</reg></choice></w>
+        <w xml:id="s10-w11" lemma="le" pos="DET" msd="Definite=Def|Gender=Fem|Number=Sing|PronType=Art">l'</w><w xml:id="s10-w12" lemma="époque" pos="NOUN" msd="Gender=Fem|Number=Sing">époque</w>
+        <w xml:id="s10-w13" lemma="que" pos="PRON" msd="PronType=Rel">que</w>
+        <w xml:id="s10-w14" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">j'</w>
+        <w xml:id="s10-w15" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">ai</w>
+        <w xml:id="s10-w16" lemma="fixer" pos="VERB" msd="Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part">fixée</w>
+        <lb n="23"/>
+        <w xml:id="s10-w17" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Sing|PronType=Art">l'</w><w xml:id="s10-w18" lemma="électeur" pos="NOUN" msd="Gender=Masc|Number=Sing">Electeur</w>
+        <w xml:id="s10-w19" lemma="de" pos="ADP">de</w>
+        <w xml:id="s10-w20" lemma="Trèves" pos="PROPN" msd="Number=Sing"><choice><orig>Treves</orig><reg resp="#gemini">Trèves</reg></choice></w>
+        <w xml:id="s10-w21" lemma="ne" pos="ADV" msd="Polarity=Neg">n'</w>
+        <w xml:id="s10-w22" lemma="avoir" pos="AUX" msd="Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin">a</w>
+        <w xml:id="s10-w23" lemma="pas" pos="ADV" msd="Polarity=Neg">pas</w>
+        <w xml:id="s10-w24" lemma="effectivement" pos="ADV">effectivement</w>
+        <w xml:id="s10-w25" lemma="et" pos="CCONJ">et</w>
+        <w xml:id="s10-w26" lemma="réellement" pos="ADV"><choice><orig>reellement</orig><reg resp="#gemini">réellement</reg></choice></w>
+        <w xml:id="s10-w27" lemma="dissiper" pos="VERB" msd="Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part"><choice><orig>dissipe</orig><reg resp="#gemini">dissipé</reg></choice></w>
+        <lb n="24"/>
+        <w xml:id="s10-w28" lemma="le" pos="DET" msd="Definite=Def|Gender=Masc|Number=Plur|PronType=Art">les</w>
+        <w xml:id="s10-w29" lemma="rassemblement" pos="NOUN" msd="Gender=Masc|Number=Plur"><choice><orig>rassemblemens</orig><reg resp="#gemini">rassemblements</reg></choice></w>
+        <w xml:id="s10-w30" lemma="qui" pos="PRON" msd="PronType=Rel">qui</w>
+        <w xml:id="s10-w31" lemma="exister" pos="VERB" msd="Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin">existent</w>
+        <w xml:id="s10-w32" lemma="dans" pos="ADP">dans</w>
+        <w xml:id="s10-w33" lemma="son" pos="DET" msd="Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs">ses</w>
+        <w xml:id="s10-w34" lemma="état" pos="NOUN" msd="Gender=Masc|Number=Plur"><choice><orig>Etats</orig><reg resp="#gemini">États</reg></choice></w><pc pos="PUNCT">,</pc>
+        <w xml:id="s10-w35" lemma="rien" pos="PRON" msd="Gender=Masc|Number=Sing|PronType=Neg">rien</w>
+        <w xml:id="s10-w36" lemma="ne" pos="ADV" msd="Polarity=Neg">ne</w>
+        <w xml:id="s10-w37" lemma="me" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">m'</w><w xml:id="s10-w38" lemma="empêcher" pos="VERB" msd="Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin"><choice><orig>empechera</orig><reg resp="#gemini">empêchera</reg></choice></w>
+        </s>
+      </p>
+      <p> 
+        <s xml:id="t1">
+          <w xml:id="w1">To</w>
+          <w xml:id="w2">the</w>
+          <w xml:id="w3">National</w>
+          <w xml:id="w4">Assembly</w>
+        </s>
+      </p>
+
+      <p>
+        <s xml:id="t2">
+          <w xml:id="w5">31</w>
+          <w xml:id="w6">December</w>
+          <w xml:id="w7">1791</w>
+        </s>
+      </p>
+
+      <p>
+        <s xml:id="t3">
+          <w xml:id="w8">I</w>
+          <w xml:id="w9">have</w>
+          <w xml:id="w10">instructed</w>
+          <w xml:id="w11">the</w>
+          <w xml:id="w12">minister</w>
+          <w xml:id="w13">of</w>
+          <w xml:id="w14">external</w>
+          <w xml:id="w15">affairs</w><pc>,</pc>
+          <w xml:id="w16">gentlemen</w><pc>,</pc>
+          <w xml:id="w17">to</w>
+          <w xml:id="w18">communicate</w>
+          <w xml:id="w19">to</w>
+          <w xml:id="w20">you</w>
+          <w xml:id="w21">the</w>
+          <w xml:id="w22">dispatch</w>
+          <w xml:id="w23">that</w>
+          <w xml:id="w24">the</w>
+          <w xml:id="w25">emperor</w>
+          <w xml:id="w26">had</w>
+          <w xml:id="w27">delivered</w>
+          <w xml:id="w28">to</w>
+          <w xml:id="w29">the</w>
+          <w xml:id="w30">ambassador</w>
+          <w xml:id="w31">of</w>
+          <w xml:id="w32">Fance</w>
+          <w xml:id="w33">in</w>
+          <w xml:id="w34">Vienna</w>
+        </s>
+      </p>
+
+      <p>
+        <s xml:id="t4">
+          <w xml:id="w35">This</w>
+          <w xml:id="w36">service</w>
+          <w xml:id="w37">have</w>
+          <w xml:id="w38">to</w>
+          <w xml:id="w39">say</w>
+          <w xml:id="w40">have</w>
+          <w xml:id="w41">caused</w>
+          <w xml:id="w42">me</w>
+          <w xml:id="w43">the</w>
+          <w xml:id="w44">greatest</w>
+          <w xml:id="w45">astonishment</w><pc>.</pc>
+        </s>
+
+        <s xml:id="t5">
+          <w xml:id="w46">I</w>
+          <w xml:id="w47">had</w>
+          <w xml:id="w48">the</w>
+          <w xml:id="w49">right</w>
+          <w xml:id="w50">to</w>
+          <w xml:id="w51">count</w>
+          <w xml:id="w52">on</w>
+          <w xml:id="w53">the</w>
+          <w xml:id="w54">Emperor's</w>
+          <w xml:id="w55">sentiments</w>
+          <w xml:id="w56">and</w>
+          <w xml:id="w57">on</w>
+          <w xml:id="w58">his</w>
+          <w xml:id="w59">desire</w>
+          <w xml:id="w60">to</w>
+          <w xml:id="w61">maintain</w>
+          <w xml:id="w62">with</w>
+          <w xml:id="w63">France</w>
+          <w xml:id="w64">the</w>
+          <w xml:id="w65">good</w>
+          <w xml:id="w66">understanding</w>
+          <w xml:id="w67">and</w>
+          <w xml:id="w68">all</w>
+          <w xml:id="w69">the</w>
+          <w xml:id="w70">relations</w>
+          <w xml:id="w71">that</w>
+          <w xml:id="w72">ought</w>
+          <w xml:id="w73">to</w>
+          <w xml:id="w74">prevail</w>
+          <w xml:id="w75">between</w>
+          <w xml:id="w76">two</w>
+          <w xml:id="w77">allies</w><pc>.</pc>
+        </s>
+        
+        <s xml:id="t6">
+          <w xml:id="w78">I</w>
+          <w xml:id="w79">like</w>
+          <w xml:id="w80">to</w>
+          <w xml:id="w81">persuade</w>
+          <w xml:id="w82">myself</w>
+          <w xml:id="w83">that</w>
+          <w xml:id="w84">he</w>
+          <w xml:id="w85">was</w>
+          <w xml:id="w86">misled</w>
+          <w xml:id="w87">as</w>
+          <w xml:id="w88">to</w>
+          <w xml:id="w89">the</w>
+          <w xml:id="w90">truth</w>
+          <w xml:id="w91">of</w>
+          <w xml:id="w92">the</w>
+          <w xml:id="w93">facts</w><pc>,</pc>
+          <w xml:id="w94">that</w>
+          <w xml:id="w95">he</w>
+          <w xml:id="w96">[saw/knew]</w>
+          <w xml:id="w97">that</w>
+          <w xml:id="w98">the</w>
+          <w xml:id="w99">Elector</w>
+          <w xml:id="w100">of</w>
+          <w xml:id="w101">Trier</w>
+          <w xml:id="w102">had</w>
+          <w xml:id="w103">fulfilled</w>
+          <w xml:id="w104">the</w>
+          <w xml:id="w105">duties</w>
+          <w xml:id="w106">of</w>
+          <w xml:id="w107">justice</w>
+          <w xml:id="w108">and</w>
+          <w xml:id="w109">good</w>
+          <w xml:id="w110">neighborliness</w><pc>,</pc>
+          <w xml:id="w111">and</w>
+          <w xml:id="w112">that</w>
+          <w xml:id="w113">nevertheless</w>
+          <w xml:id="w114">this</w>
+          <w xml:id="w115">prince</w>
+          <w xml:id="w116">had</w>
+          <w xml:id="w117">reason</w>
+          <w xml:id="w118">to</w>
+          <w xml:id="w119">fear</w>
+          <w xml:id="w120">that</w>
+          <w xml:id="w121">his</w>
+          <w xml:id="w122">states</w>
+          <w xml:id="w123">would</w>
+          <w xml:id="w124">be</w>
+          <w xml:id="w125">exposed</w>
+          <w xml:id="w126">to</w>
+          <w xml:id="w127">violence</w>
+          <w xml:id="w128">or</w>
+          <w xml:id="w129">to</w>
+          <w xml:id="w130">private</w>
+          <w xml:id="w131">incursions</w><pc>.</pc>
+        </s>
+
+        <s xml:id="t7">
+          <w xml:id="w132">So</w><pc>,</pc>
+          <w xml:id="w133">the</w>
+          <w xml:id="w134">response</w>
+          <w xml:id="w135">that</w>
+          <w xml:id="w136">i</w>
+          <w xml:id="w137">made</w>
+          <w xml:id="w138">to</w>
+          <w xml:id="w139">the</w>
+          <w xml:id="w140">Emperor</w><pc>,</pc>
+          <w xml:id="w141">i</w>
+          <w xml:id="w142">repeated</w>
+          <w xml:id="w143">to</w>
+          <w xml:id="w144">hime</w>
+          <w xml:id="w145">that</w>
+          <w xml:id="w146">i</w>
+          <w xml:id="w147">have</w>
+          <w xml:id="w148">nothing</w>
+          <w xml:id="w149">to</w>
+          <w xml:id="w150">ask</w>
+          <w xml:id="w151">for</w>
+          <w xml:id="w152">in</w>
+          <w xml:id="w153">all</w>
+          <w xml:id="w154">fairness</w>
+          <w xml:id="w155">to</w>
+          <w xml:id="w156">the</w>
+          <w xml:id="w157">Elector</w>
+          <w xml:id="w158">of</w>
+          <w xml:id="w159">Trier</w><pc>,</pc>
+          <w xml:id="w160">[there was]</w>
+          <w xml:id="w161">nothing</w>
+          <w xml:id="w162">of</w>
+          <w xml:id="w163">which</w>
+          <w xml:id="w164">the</w>
+          <w xml:id="w165">Emperor</w>
+          <w xml:id="w166">had</w>
+          <w xml:id="w167">not</w>
+          <w xml:id="w168">himself</w>
+          <w xml:id="w169">set</w>
+          <w xml:id="w170">the</w>
+          <w xml:id="w171">example</w><pc>.</pc>
+        </s>
+        </p>
+    </body>
+  </text>
+  <standOff>
+    <linkGrp type="translation-alignment" resp="#editor">
+      <link target="#s1 #t1"/>
+      <link target="#s2 #t2"/>
+      <link target="#s3 #t3"/>
+      <link target="#s4 #t4"/>
+      <link target="#s5 #t5"/>
+      <link target="#s6 #t6"/>
+      <link target="#s7 #t7"/>
+    </linkGrp>
+  </standOff>
+</TEI>

@@ -1,0 +1,35 @@
+.tei-body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1em;
+  color: #000;
+  background-color: #cdc8c5;
+ 
+}
+.tei-orig {
+  display: inline;
+
+}
+
+.tei-reg {
+  display: none;
+
+}
+
+.tei-abbr  {
+  display: inline;
+
+}
+
+.tei-expan {
+  display: none;
+
+}
+
+.tei-lb {
+  display: block;
+
+}
+
+.tei-lb::before {
+  content: attr(data-n) " "; color: #64748b;
+}

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Modern english translation: Edition of Louis XVI's Letter to the Assemblée Nationale (31 December 1791)</title>
+        <author key="Louis_XVI">Louis XVI, King of France (1754–1793)</author>
+        <editor>Ace Long</editor>
+      </titleStmt>  
+      <publicationStmt>
+       
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+          
+            <repository ref="https://viaf.org/en/viaf/121010765">British Library</repository>
+            <collection>Stefan Zweig Collection</collection>
+            
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+        <pb n="1" facs="#Front_page"/>
+      <p>
+        <s xml:id="t1">
+          <w xml:id="w1">To</w>
+          <w xml:id="w2">the</w>
+          <w xml:id="w3">National</w>
+          <w xml:id="w4">Assembly</w>
+        </s>
+      </p>
+
+      <p>
+        <s xml:id="t2">
+          <w xml:id="w5">31</w>
+          <w xml:id="w6">December</w>
+          <w xml:id="w7">1791</w>
+        </s>
+      </p>
+
+      <p>
+        <s xml:id="t3">
+          <w xml:id="w8">I</w>
+          <w xml:id="w9">have</w>
+          <w xml:id="w10">instructed</w>
+          <w xml:id="w11">the</w>
+          <w xml:id="w12">minister</w>
+          <w xml:id="w13">of</w>
+          <w xml:id="w14">external</w>
+          <w xml:id="w15">affairs</w><pc>,</pc>
+          <w xml:id="w16">gentlemen</w><pc>,</pc>
+          <w xml:id="w17">to</w>
+          <w xml:id="w18">communicate</w>
+          <w xml:id="w19">to</w>
+          <w xml:id="w20">you</w>
+          <w xml:id="w21">the</w>
+          <w xml:id="w22">dispatch</w>
+          <w xml:id="w23">that</w>
+          <w xml:id="w24">the</w>
+          <w xml:id="w25">emperor</w>
+          <w xml:id="w26">had</w>
+          <w xml:id="w27">delivered</w>
+          <w xml:id="w28">to</w>
+          <w xml:id="w29">the</w>
+          <w xml:id="w30">ambassador</w>
+          <w xml:id="w31">of</w>
+          <w xml:id="w32">Fance</w>
+          <w xml:id="w33">in</w>
+          <w xml:id="w34">Vienna</w>
+        </s>
+      </p>
+
+      <p>
+        <s xml:id="t4">
+          <w xml:id="w35">This</w>
+          <w xml:id="w36">service</w>
+          <w xml:id="w37">have</w>
+          <w xml:id="w38">to</w>
+          <w xml:id="w39">say</w>
+          <w xml:id="w40">have</w>
+          <w xml:id="w41">caused</w>
+          <w xml:id="w42">me</w>
+          <w xml:id="w43">the</w>
+          <w xml:id="w44">greatest</w>
+          <w xml:id="w45">astonishment</w><pc>.</pc>
+        </s>
+
+        <s xml:id="t5">
+          <w xml:id="w46">I</w>
+          <w xml:id="w47">had</w>
+          <w xml:id="w48">the</w>
+          <w xml:id="w49">right</w>
+          <w xml:id="w50">to</w>
+          <w xml:id="w51">count</w>
+          <w xml:id="w52">on</w>
+          <w xml:id="w53">the</w>
+          <w xml:id="w54">Emperor's</w>
+          <w xml:id="w55">sentiments</w>
+          <w xml:id="w56">and</w>
+          <w xml:id="w57">on</w>
+          <w xml:id="w58">his</w>
+          <w xml:id="w59">desire</w>
+          <w xml:id="w60">to</w>
+          <w xml:id="w61">maintain</w>
+          <w xml:id="w62">with</w>
+          <w xml:id="w63">France</w>
+          <w xml:id="w64">the</w>
+          <w xml:id="w65">good</w>
+          <w xml:id="w66">understanding</w>
+          <w xml:id="w67">and</w>
+          <w xml:id="w68">all</w>
+          <w xml:id="w69">the</w>
+          <w xml:id="w70">relations</w>
+          <w xml:id="w71">that</w>
+          <w xml:id="w72">ought</w>
+          <w xml:id="w73">to</w>
+          <w xml:id="w74">prevail</w>
+          <w xml:id="w75">between</w>
+          <w xml:id="w76">two</w>
+          <w xml:id="w77">allies</w><pc>.</pc>
+        </s>
+        
+        <s xml:id="t6">
+          <w xml:id="w78">I</w>
+          <w xml:id="w79">like</w>
+          <w xml:id="w80">to</w>
+          <w xml:id="w81">persuade</w>
+          <w xml:id="w82">myself</w>
+          <w xml:id="w83">that</w>
+          <w xml:id="w84">he</w>
+          <w xml:id="w85">was</w>
+          <w xml:id="w86">misled</w>
+          <w xml:id="w87">as</w>
+          <w xml:id="w88">to</w>
+          <w xml:id="w89">the</w>
+          <w xml:id="w90">truth</w>
+          <w xml:id="w91">of</w>
+          <w xml:id="w92">the</w>
+          <w xml:id="w93">facts</w><pc>,</pc>
+          <w xml:id="w94">that</w>
+          <w xml:id="w95">he</w>
+          <w xml:id="w96">[saw/knew]</w>
+          <w xml:id="w97">that</w>
+          <w xml:id="w98">the</w>
+          <w xml:id="w99">Elector</w>
+          <w xml:id="w100">of</w>
+          <w xml:id="w101">Trier</w>
+          <w xml:id="w102">had</w>
+          <w xml:id="w103">fulfilled</w>
+          <w xml:id="w104">the</w>
+          <w xml:id="w105">duties</w>
+          <w xml:id="w106">of</w>
+          <w xml:id="w107">justice</w>
+          <w xml:id="w108">and</w>
+          <w xml:id="w109">good</w>
+          <w xml:id="w110">neighborliness</w><pc>,</pc>
+          <w xml:id="w111">and</w>
+          <w xml:id="w112">that</w>
+          <w xml:id="w113">nevertheless</w>
+          <w xml:id="w114">this</w>
+          <w xml:id="w115">prince</w>
+          <w xml:id="w116">had</w>
+          <w xml:id="w117">reason</w>
+          <w xml:id="w118">to</w>
+          <w xml:id="w119">fear</w>
+          <w xml:id="w120">that</w>
+          <w xml:id="w121">his</w>
+          <w xml:id="w122">states</w>
+          <w xml:id="w123">would</w>
+          <w xml:id="w124">be</w>
+          <w xml:id="w125">exposed</w>
+          <w xml:id="w126">to</w>
+          <w xml:id="w127">violence</w>
+          <w xml:id="w128">or</w>
+          <w xml:id="w129">to</w>
+          <w xml:id="w130">private</w>
+          <w xml:id="w131">incursions</w><pc>.</pc>
+        </s>
+
+        <s xml:id="t7">
+          <w xml:id="w132">So</w><pc>,</pc>
+          <w xml:id="w133">the</w>
+          <w xml:id="w134">response</w>
+          <w xml:id="w135">that</w>
+          <w xml:id="w136">i</w>
+          <w xml:id="w137">made</w>
+          <w xml:id="w138">to</w>
+          <w xml:id="w139">the</w>
+          <w xml:id="w140">Emperor</w><pc>,</pc>
+          <w xml:id="w141">i</w>
+          <w xml:id="w142">repeated</w>
+          <w xml:id="w143">to</w>
+          <w xml:id="w144">hime</w>
+          <w xml:id="w145">that</w>
+          <w xml:id="w146">i</w>
+          <w xml:id="w147">have</w>
+          <w xml:id="w148">nothing</w>
+          <w xml:id="w149">to</w>
+          <w xml:id="w150">ask</w>
+          <w xml:id="w151">for</w>
+          <w xml:id="w152">in</w>
+          <w xml:id="w153">all</w>
+          <w xml:id="w154">fairness</w>
+          <w xml:id="w155">to</w>
+          <w xml:id="w156">the</w>
+          <w xml:id="w157">Elector</w>
+          <w xml:id="w158">of</w>
+          <w xml:id="w159">Trier</w><pc>,</pc>
+          <w xml:id="w160">[there was]</w>
+          <w xml:id="w161">nothing</w>
+          <w xml:id="w162">of</w>
+          <w xml:id="w163">which</w>
+          <w xml:id="w164">the</w>
+          <w xml:id="w165">Emperor</w>
+          <w xml:id="w166">had</w>
+          <w xml:id="w167">not</w>
+          <w xml:id="w168">himself</w>
+          <w xml:id="w169">set</w>
+          <w xml:id="w170">the</w>
+          <w xml:id="w171">example</w><pc>.</pc>
+        </s>
+       
+    
+        
+      </p>
+    </body>
+  </text>
+</TEI>

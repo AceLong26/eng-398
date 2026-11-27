@@ -97,7 +97,8 @@
        </s>
        
        <s xml:id="s5">
-        <w xml:id="s5-w1" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">J'</w><w xml:id="s5-w2" lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin"><choice><orig>avois</orig><reg resp="#gemini">avais</reg></choice></w>
+        <w xml:id="s5-w1" lemma="je" pos="PRON" msd="Number=Sing|Person=1|PronType=Prs">J'</w>
+        <w xml:id="s5-w2" lemma="avoir" pos="VERB" msd="Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin"><choice><orig>avois</orig><reg resp="#gemini">avais</reg></choice></w>
         <w xml:id="s5-w3" lemma="droit" pos="NOUN" msd="Gender=Masc|Number=Sing">droit</w>
         <w xml:id="s5-w4" lemma="à" pos="ADP"><choice><orig>a</orig><reg resp="#gemini">à</reg></choice></w>
         <w xml:id="s5-w5" lemma="compter" pos="VERB" msd="VerbForm=Inf">compter</w>
@@ -734,5 +735,6 @@
       <link target="#s7-w36 #w170"/>
       <link target="#s7-w37 #w171"/>
     </linkGrp>
+    <note xml:id="n1" type="philological" target="#s5w2" resp="#editor">The original text reads "j'avois" (I had), but the editor has corrected it to "j'avais" (I had), to conform wtih modren spelling convetions.</note>
   </standOff>
 </TEI>

@@ -735,6 +735,6 @@
       <link target="#s7-w36 #w170"/>
       <link target="#s7-w37 #w171"/>
     </linkGrp>
-    <note xml:id="n1" type="philological" target="#s5-w2" resp="#editor">The original text reads "j'avois" (I had), but the editor has corrected it to "j'avais" (I had), to conform wtih modren spelling convetions.</note>
+    <note xml:id="n1" type="philological" target="#s5-w2" resp="#editor">The original text reads <quote>"j'avois" </quote> (I had), but the editor has corrected it to "j'avais" (I had), to conform wtih modren spelling convetions.</note>
   </standOff>
 </TEI>
